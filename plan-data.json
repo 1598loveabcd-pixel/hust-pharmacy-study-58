@@ -1,0 +1,6916 @@
+{
+  "meta": {
+    "title": "华科药学考研58天冲刺计划",
+    "description": "按当前进度设置的首轮收口、二轮复测、限时整卷与考前回收计划。",
+    "sourceFilename": "华科药学_58天冲刺计划与打卡.xlsx",
+    "sourceSha256": "d36b7edeafce00594d4a2a5270f4226600d5b3801b46056dc7b76ecc1ee50482",
+    "startDate": "2026-10-22",
+    "endDate": "2026-12-18",
+    "days": 58,
+    "plannedHours": 574,
+    "examDates": [
+      "2026-12-19",
+      "2026-12-20"
+    ],
+    "existingInputCount": 0,
+    "completionDefinition": "当天完成科数÷5；部分完成不计入完成科数。完成率不代表掌握程度。",
+    "trackingNotes": "浅蓝区域可填写。完成率＝当天“完成”科数÷5；部分完成不计入完成科数。完成率不代表掌握程度。",
+    "dailyPlanNotes": [
+      "2026年10月22日—12月18日，共58天。每日任务文字可以按实际大纲与用时修改。",
+      "首轮专题编号是可编辑排期单元，不等于教材章号。题量为起点，订正与闭卷输出计入学科时段。"
+    ],
+    "summaryCached": {
+      "recordedDays": 0,
+      "actualHours": null,
+      "completedSubjects": 0,
+      "completionRate": 0
+    }
+  },
+  "subjects": [
+    {
+      "id": "pharm",
+      "label": "药理学"
+    },
+    {
+      "id": "analysis",
+      "label": "分析化学"
+    },
+    {
+      "id": "organic",
+      "label": "有机化学"
+    },
+    {
+      "id": "english",
+      "label": "英语"
+    },
+    {
+      "id": "politics",
+      "label": "政治"
+    }
+  ],
+  "phases": [
+    {
+      "id": "phase-1",
+      "name": "首轮收口",
+      "start": "2026-10-22",
+      "end": "2026-11-08",
+      "days": 18,
+      "goal": "完成大纲未覆盖清单；首轮以基础题和闭卷输出验收。英语2018—2023；政治手册配客观题。"
+    },
+    {
+      "id": "phase-2",
+      "name": "二轮复测",
+      "start": "2026-11-09",
+      "end": "2026-11-22",
+      "days": 14,
+      "goal": "三科按大纲全范围轮转，重做基础错题，补比较与简答。英语复测错因；政治加入主观框架。"
+    },
+    {
+      "id": "phase-3",
+      "name": "混合限时",
+      "start": "2026-11-23",
+      "end": "2026-12-06",
+      "days": 14,
+      "goal": "跨章节限时与整卷订正。专业综合11/28、12/5；英语2024年12/1模拟。"
+    },
+    {
+      "id": "phase-4",
+      "name": "整卷查漏",
+      "start": "2026-12-07",
+      "end": "2026-12-14",
+      "days": 8,
+      "goal": "政治12/10整卷；英语2025年12/7、2026年12/12模拟，次日订正；专业综合12/13。稳定答题顺序。"
+    },
+    {
+      "id": "phase-5",
+      "name": "考前回收",
+      "start": "2026-12-15",
+      "end": "2026-12-18",
+      "days": 4,
+      "goal": "回收高频错题、公式、反应和简答框架；12/17减至8小时，12/18减至6小时。"
+    }
+  ],
+  "days": [
+    {
+      "date": "2026-10-22",
+      "day": 1,
+      "phaseId": "phase-1",
+      "phase": "首轮收口",
+      "plannedHours": 10,
+      "subjects": {
+        "pharm": {
+          "raw": "抗心律失常收口；基础15题；简答提纲2",
+          "tasks": [
+            {
+              "id": "2026-10-22-pharm-1",
+              "text": "抗心律失常收口"
+            },
+            {
+              "id": "2026-10-22-pharm-2",
+              "text": "基础15题"
+            },
+            {
+              "id": "2026-10-22-pharm-3",
+              "text": "简答提纲2"
+            }
+          ],
+          "notes": []
+        },
+        "analysis": {
+          "raw": "红外收口；短题6；谱图1",
+          "tasks": [
+            {
+              "id": "2026-10-22-analysis-1",
+              "text": "红外收口"
+            },
+            {
+              "id": "2026-10-22-analysis-2",
+              "text": "短题6"
+            },
+            {
+              "id": "2026-10-22-analysis-3",
+              "text": "谱图1"
+            }
+          ],
+          "notes": []
+        },
+        "organic": {
+          "raw": "当前反应收口；产物判断10；机理1",
+          "tasks": [
+            {
+              "id": "2026-10-22-organic-1",
+              "text": "当前反应收口"
+            },
+            {
+              "id": "2026-10-22-organic-2",
+              "text": "产物判断10"
+            },
+            {
+              "id": "2026-10-22-organic-3",
+              "text": "机理1"
+            }
+          ],
+          "notes": []
+        },
+        "english": {
+          "raw": "词汇20分钟；2018年：阅读1—2限时与订正；小作文1篇",
+          "tasks": [
+            {
+              "id": "2026-10-22-english-1",
+              "text": "词汇20分钟"
+            },
+            {
+              "id": "2026-10-22-english-2",
+              "text": "2018年：阅读1—2限时与订正"
+            },
+            {
+              "id": "2026-10-22-english-3",
+              "text": "小作文1篇"
+            }
+          ],
+          "notes": []
+        },
+        "politics": {
+          "raw": "腿姐手册1个适量单元；闭卷回忆10分钟；查漏",
+          "tasks": [
+            {
+              "id": "2026-10-22-politics-1",
+              "text": "腿姐手册1个适量单元"
+            },
+            {
+              "id": "2026-10-22-politics-2",
+              "text": "闭卷回忆10分钟"
+            },
+            {
+              "id": "2026-10-22-politics-3",
+              "text": "查漏"
+            }
+          ],
+          "notes": []
+        }
+      },
+      "tracking": {
+        "subjectStatus": {
+          "pharm": null,
+          "analysis": null,
+          "organic": null,
+          "english": null,
+          "politics": null
+        },
+        "actualHours": null,
+        "note": null
+      },
+      "events": []
+    },
+    {
+      "date": "2026-10-23",
+      "day": 2,
+      "phaseId": "phase-1",
+      "phase": "首轮收口",
+      "plannedHours": 10,
+      "subjects": {
+        "pharm": {
+          "raw": "已学药理抽测30分钟；错题订正；当前主题简答2",
+          "tasks": [
+            {
+              "id": "2026-10-23-pharm-1",
+              "text": "已学药理抽测30分钟"
+            },
+            {
+              "id": "2026-10-23-pharm-2",
+              "text": "错题订正"
+            },
+            {
+              "id": "2026-10-23-pharm-3",
+              "text": "当前主题简答2"
+            }
+          ],
+          "notes": []
+        },
+        "analysis": {
+          "raw": "已学分析抽测30分钟；错题订正；计算/谱图1",
+          "tasks": [
+            {
+              "id": "2026-10-23-analysis-1",
+              "text": "已学分析抽测30分钟"
+            },
+            {
+              "id": "2026-10-23-analysis-2",
+              "text": "错题订正"
+            },
+            {
+              "id": "2026-10-23-analysis-3",
+              "text": "计算/谱图1"
+            }
+          ],
+          "notes": []
+        },
+        "organic": {
+          "raw": "已学有机抽测30分钟；错题订正；产物判断6",
+          "tasks": [
+            {
+              "id": "2026-10-23-organic-1",
+              "text": "已学有机抽测30分钟"
+            },
+            {
+              "id": "2026-10-23-organic-2",
+              "text": "错题订正"
+            },
+            {
+              "id": "2026-10-23-organic-3",
+              "text": "产物判断6"
+            }
+          ],
+          "notes": []
+        },
+        "english": {
+          "raw": "词汇20分钟；2018年：阅读3—4限时与订正；大作文提纲1份",
+          "tasks": [
+            {
+              "id": "2026-10-23-english-1",
+              "text": "词汇20分钟"
+            },
+            {
+              "id": "2026-10-23-english-2",
+              "text": "2018年：阅读3—4限时与订正"
+            },
+            {
+              "id": "2026-10-23-english-3",
+              "text": "大作文提纲1份"
+            }
+          ],
+          "notes": []
+        },
+        "politics": {
+          "raw": "腿姐手册1个适量单元；闭卷回忆10分钟；查漏",
+          "tasks": [
+            {
+              "id": "2026-10-23-politics-1",
+              "text": "腿姐手册1个适量单元"
+            },
+            {
+              "id": "2026-10-23-politics-2",
+              "text": "闭卷回忆10分钟"
+            },
+            {
+              "id": "2026-10-23-politics-3",
+              "text": "查漏"
+            }
+          ],
+          "notes": []
+        }
+      },
+      "tracking": {
+        "subjectStatus": {
+          "pharm": null,
+          "analysis": null,
+          "organic": null,
+          "english": null,
+          "politics": null
+        },
+        "actualHours": null,
+        "note": null
+      },
+      "events": []
+    },
+    {
+      "date": "2026-10-24",
+      "day": 3,
+      "phaseId": "phase-1",
+      "phase": "首轮收口",
+      "plannedHours": 10,
+      "subjects": {
+        "pharm": {
+          "raw": "剩余大纲列为12个专题；基础15题；简答提纲2",
+          "tasks": [
+            {
+              "id": "2026-10-24-pharm-1",
+              "text": "剩余大纲列为12个专题"
+            },
+            {
+              "id": "2026-10-24-pharm-2",
+              "text": "基础15题"
+            },
+            {
+              "id": "2026-10-24-pharm-3",
+              "text": "简答提纲2"
+            }
+          ],
+          "notes": []
+        },
+        "analysis": {
+          "raw": "剩余大纲列为12个专题；短题6；计算/谱图1",
+          "tasks": [
+            {
+              "id": "2026-10-24-analysis-1",
+              "text": "剩余大纲列为12个专题"
+            },
+            {
+              "id": "2026-10-24-analysis-2",
+              "text": "短题6"
+            },
+            {
+              "id": "2026-10-24-analysis-3",
+              "text": "计算/谱图1"
+            }
+          ],
+          "notes": []
+        },
+        "organic": {
+          "raw": "剩余大纲列为12个专题；产物判断10；合成1",
+          "tasks": [
+            {
+              "id": "2026-10-24-organic-1",
+              "text": "剩余大纲列为12个专题"
+            },
+            {
+              "id": "2026-10-24-organic-2",
+              "text": "产物判断10"
+            },
+            {
+              "id": "2026-10-24-organic-3",
+              "text": "合成1"
+            }
+          ],
+          "notes": []
+        },
+        "english": {
+          "raw": "词汇20分钟；2018年：完形、新题型、翻译；大作文1篇；归纳错因",
+          "tasks": [
+            {
+              "id": "2026-10-24-english-1",
+              "text": "词汇20分钟"
+            },
+            {
+              "id": "2026-10-24-english-2",
+              "text": "2018年：完形、新题型、翻译"
+            },
+            {
+              "id": "2026-10-24-english-3",
+              "text": "大作文1篇"
+            },
+            {
+              "id": "2026-10-24-english-4",
+              "text": "归纳错因"
+            }
+          ],
+          "notes": []
+        },
+        "politics": {
+          "raw": "腿姐手册1个适量单元；闭卷回忆10分钟；查漏",
+          "tasks": [
+            {
+              "id": "2026-10-24-politics-1",
+              "text": "腿姐手册1个适量单元"
+            },
+            {
+              "id": "2026-10-24-politics-2",
+              "text": "闭卷回忆10分钟"
+            },
+            {
+              "id": "2026-10-24-politics-3",
+              "text": "查漏"
+            }
+          ],
+          "notes": []
+        }
+      },
+      "tracking": {
+        "subjectStatus": {
+          "pharm": null,
+          "analysis": null,
+          "organic": null,
+          "english": null,
+          "politics": null
+        },
+        "actualHours": null,
+        "note": null
+      },
+      "events": []
+    },
+    {
+      "date": "2026-10-25",
+      "day": 4,
+      "phaseId": "phase-1",
+      "phase": "首轮收口",
+      "plannedHours": 10,
+      "subjects": {
+        "pharm": {
+          "raw": "剩余专题1（可改名）；基础15题；简答提纲2",
+          "tasks": [
+            {
+              "id": "2026-10-25-pharm-1",
+              "text": "剩余专题1（可改名）"
+            },
+            {
+              "id": "2026-10-25-pharm-2",
+              "text": "基础15题"
+            },
+            {
+              "id": "2026-10-25-pharm-3",
+              "text": "简答提纲2"
+            }
+          ],
+          "notes": []
+        },
+        "analysis": {
+          "raw": "剩余专题1（可改名）；短题6；计算/谱图1—2",
+          "tasks": [
+            {
+              "id": "2026-10-25-analysis-1",
+              "text": "剩余专题1（可改名）"
+            },
+            {
+              "id": "2026-10-25-analysis-2",
+              "text": "短题6"
+            },
+            {
+              "id": "2026-10-25-analysis-3",
+              "text": "计算/谱图1—2"
+            }
+          ],
+          "notes": []
+        },
+        "organic": {
+          "raw": "剩余专题1（可改名）；产物判断10；机理/合成1",
+          "tasks": [
+            {
+              "id": "2026-10-25-organic-1",
+              "text": "剩余专题1（可改名）"
+            },
+            {
+              "id": "2026-10-25-organic-2",
+              "text": "产物判断10"
+            },
+            {
+              "id": "2026-10-25-organic-3",
+              "text": "机理/合成1"
+            }
+          ],
+          "notes": []
+        },
+        "english": {
+          "raw": "词汇20分钟；2019年：阅读1—2限时与订正；小作文1篇",
+          "tasks": [
+            {
+              "id": "2026-10-25-english-1",
+              "text": "词汇20分钟"
+            },
+            {
+              "id": "2026-10-25-english-2",
+              "text": "2019年：阅读1—2限时与订正"
+            },
+            {
+              "id": "2026-10-25-english-3",
+              "text": "小作文1篇"
+            }
+          ],
+          "notes": []
+        },
+        "politics": {
+          "raw": "客观十套卷第1套：限时做；圈出错题/猜对题；配手册",
+          "tasks": [
+            {
+              "id": "2026-10-25-politics-1",
+              "text": "客观十套卷第1套：限时做"
+            },
+            {
+              "id": "2026-10-25-politics-2",
+              "text": "圈出错题/猜对题"
+            },
+            {
+              "id": "2026-10-25-politics-3",
+              "text": "配手册"
+            }
+          ],
+          "notes": []
+        }
+      },
+      "tracking": {
+        "subjectStatus": {
+          "pharm": null,
+          "analysis": null,
+          "organic": null,
+          "english": null,
+          "politics": null
+        },
+        "actualHours": null,
+        "note": null
+      },
+      "events": []
+    },
+    {
+      "date": "2026-10-26",
+      "day": 5,
+      "phaseId": "phase-1",
+      "phase": "首轮收口",
+      "plannedHours": 10,
+      "subjects": {
+        "pharm": {
+          "raw": "剩余专题2（可改名）；基础15题；简答提纲2",
+          "tasks": [
+            {
+              "id": "2026-10-26-pharm-1",
+              "text": "剩余专题2（可改名）"
+            },
+            {
+              "id": "2026-10-26-pharm-2",
+              "text": "基础15题"
+            },
+            {
+              "id": "2026-10-26-pharm-3",
+              "text": "简答提纲2"
+            }
+          ],
+          "notes": []
+        },
+        "analysis": {
+          "raw": "剩余专题2（可改名）；短题6；计算/谱图1—2",
+          "tasks": [
+            {
+              "id": "2026-10-26-analysis-1",
+              "text": "剩余专题2（可改名）"
+            },
+            {
+              "id": "2026-10-26-analysis-2",
+              "text": "短题6"
+            },
+            {
+              "id": "2026-10-26-analysis-3",
+              "text": "计算/谱图1—2"
+            }
+          ],
+          "notes": []
+        },
+        "organic": {
+          "raw": "剩余专题2（可改名）；产物判断10；机理/合成1",
+          "tasks": [
+            {
+              "id": "2026-10-26-organic-1",
+              "text": "剩余专题2（可改名）"
+            },
+            {
+              "id": "2026-10-26-organic-2",
+              "text": "产物判断10"
+            },
+            {
+              "id": "2026-10-26-organic-3",
+              "text": "机理/合成1"
+            }
+          ],
+          "notes": []
+        },
+        "english": {
+          "raw": "词汇20分钟；2019年：阅读3—4限时与订正；大作文提纲1份",
+          "tasks": [
+            {
+              "id": "2026-10-26-english-1",
+              "text": "词汇20分钟"
+            },
+            {
+              "id": "2026-10-26-english-2",
+              "text": "2019年：阅读3—4限时与订正"
+            },
+            {
+              "id": "2026-10-26-english-3",
+              "text": "大作文提纲1份"
+            }
+          ],
+          "notes": []
+        },
+        "politics": {
+          "raw": "客观十套卷第1套：订正回查手册；闭卷辨析易混选项",
+          "tasks": [
+            {
+              "id": "2026-10-26-politics-1",
+              "text": "客观十套卷第1套：订正回查手册"
+            },
+            {
+              "id": "2026-10-26-politics-2",
+              "text": "闭卷辨析易混选项"
+            }
+          ],
+          "notes": []
+        }
+      },
+      "tracking": {
+        "subjectStatus": {
+          "pharm": null,
+          "analysis": null,
+          "organic": null,
+          "english": null,
+          "politics": null
+        },
+        "actualHours": null,
+        "note": null
+      },
+      "events": []
+    },
+    {
+      "date": "2026-10-27",
+      "day": 6,
+      "phaseId": "phase-1",
+      "phase": "首轮收口",
+      "plannedHours": 10,
+      "subjects": {
+        "pharm": {
+          "raw": "剩余专题3（可改名）；基础15题；简答提纲2",
+          "tasks": [
+            {
+              "id": "2026-10-27-pharm-1",
+              "text": "剩余专题3（可改名）"
+            },
+            {
+              "id": "2026-10-27-pharm-2",
+              "text": "基础15题"
+            },
+            {
+              "id": "2026-10-27-pharm-3",
+              "text": "简答提纲2"
+            }
+          ],
+          "notes": []
+        },
+        "analysis": {
+          "raw": "剩余专题3（可改名）；短题6；计算/谱图1—2",
+          "tasks": [
+            {
+              "id": "2026-10-27-analysis-1",
+              "text": "剩余专题3（可改名）"
+            },
+            {
+              "id": "2026-10-27-analysis-2",
+              "text": "短题6"
+            },
+            {
+              "id": "2026-10-27-analysis-3",
+              "text": "计算/谱图1—2"
+            }
+          ],
+          "notes": []
+        },
+        "organic": {
+          "raw": "剩余专题3（可改名）；产物判断10；机理/合成1",
+          "tasks": [
+            {
+              "id": "2026-10-27-organic-1",
+              "text": "剩余专题3（可改名）"
+            },
+            {
+              "id": "2026-10-27-organic-2",
+              "text": "产物判断10"
+            },
+            {
+              "id": "2026-10-27-organic-3",
+              "text": "机理/合成1"
+            }
+          ],
+          "notes": []
+        },
+        "english": {
+          "raw": "词汇20分钟；2019年：完形、新题型、翻译；大作文1篇；归纳错因",
+          "tasks": [
+            {
+              "id": "2026-10-27-english-1",
+              "text": "词汇20分钟"
+            },
+            {
+              "id": "2026-10-27-english-2",
+              "text": "2019年：完形、新题型、翻译"
+            },
+            {
+              "id": "2026-10-27-english-3",
+              "text": "大作文1篇"
+            },
+            {
+              "id": "2026-10-27-english-4",
+              "text": "归纳错因"
+            }
+          ],
+          "notes": []
+        },
+        "politics": {
+          "raw": "客观十套卷第2套：限时做；圈出错题/猜对题；配手册",
+          "tasks": [
+            {
+              "id": "2026-10-27-politics-1",
+              "text": "客观十套卷第2套：限时做"
+            },
+            {
+              "id": "2026-10-27-politics-2",
+              "text": "圈出错题/猜对题"
+            },
+            {
+              "id": "2026-10-27-politics-3",
+              "text": "配手册"
+            }
+          ],
+          "notes": []
+        }
+      },
+      "tracking": {
+        "subjectStatus": {
+          "pharm": null,
+          "analysis": null,
+          "organic": null,
+          "english": null,
+          "politics": null
+        },
+        "actualHours": null,
+        "note": null
+      },
+      "events": []
+    },
+    {
+      "date": "2026-10-28",
+      "day": 7,
+      "phaseId": "phase-1",
+      "phase": "首轮收口",
+      "plannedHours": 10,
+      "subjects": {
+        "pharm": {
+          "raw": "本周药理补漏；错题10；闭卷比较2组；本日从现有任务中替换出合计2小时补漏",
+          "tasks": [
+            {
+              "id": "2026-10-28-pharm-1",
+              "text": "本周药理补漏"
+            },
+            {
+              "id": "2026-10-28-pharm-2",
+              "text": "错题10"
+            },
+            {
+              "id": "2026-10-28-pharm-3",
+              "text": "闭卷比较2组"
+            }
+          ],
+          "notes": [
+            "本日从现有任务中替换出合计2小时补漏"
+          ]
+        },
+        "analysis": {
+          "raw": "本周分析补漏；错题6；计算/谱图1",
+          "tasks": [
+            {
+              "id": "2026-10-28-analysis-1",
+              "text": "本周分析补漏"
+            },
+            {
+              "id": "2026-10-28-analysis-2",
+              "text": "错题6"
+            },
+            {
+              "id": "2026-10-28-analysis-3",
+              "text": "计算/谱图1"
+            }
+          ],
+          "notes": []
+        },
+        "organic": {
+          "raw": "本周有机补漏；错反应8；机理/合成1",
+          "tasks": [
+            {
+              "id": "2026-10-28-organic-1",
+              "text": "本周有机补漏"
+            },
+            {
+              "id": "2026-10-28-organic-2",
+              "text": "错反应8"
+            },
+            {
+              "id": "2026-10-28-organic-3",
+              "text": "机理/合成1"
+            }
+          ],
+          "notes": []
+        },
+        "english": {
+          "raw": "词汇20分钟；2020年：阅读1—2限时与订正；小作文1篇",
+          "tasks": [
+            {
+              "id": "2026-10-28-english-1",
+              "text": "词汇20分钟"
+            },
+            {
+              "id": "2026-10-28-english-2",
+              "text": "2020年：阅读1—2限时与订正"
+            },
+            {
+              "id": "2026-10-28-english-3",
+              "text": "小作文1篇"
+            }
+          ],
+          "notes": []
+        },
+        "politics": {
+          "raw": "客观十套卷第2套：订正回查手册；闭卷辨析易混选项",
+          "tasks": [
+            {
+              "id": "2026-10-28-politics-1",
+              "text": "客观十套卷第2套：订正回查手册"
+            },
+            {
+              "id": "2026-10-28-politics-2",
+              "text": "闭卷辨析易混选项"
+            }
+          ],
+          "notes": []
+        }
+      },
+      "tracking": {
+        "subjectStatus": {
+          "pharm": null,
+          "analysis": null,
+          "organic": null,
+          "english": null,
+          "politics": null
+        },
+        "actualHours": null,
+        "note": null
+      },
+      "events": [
+        {
+          "type": "catchup",
+          "label": "本周补漏",
+          "durationMinutes": 120,
+          "replacesNormalTasks": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "day": 8,
+      "phaseId": "phase-1",
+      "phase": "首轮收口",
+      "plannedHours": 10,
+      "subjects": {
+        "pharm": {
+          "raw": "剩余专题4（可改名）；基础15题；简答提纲2",
+          "tasks": [
+            {
+              "id": "2026-10-29-pharm-1",
+              "text": "剩余专题4（可改名）"
+            },
+            {
+              "id": "2026-10-29-pharm-2",
+              "text": "基础15题"
+            },
+            {
+              "id": "2026-10-29-pharm-3",
+              "text": "简答提纲2"
+            }
+          ],
+          "notes": []
+        },
+        "analysis": {
+          "raw": "剩余专题4（可改名）；短题6；计算/谱图1—2",
+          "tasks": [
+            {
+              "id": "2026-10-29-analysis-1",
+              "text": "剩余专题4（可改名）"
+            },
+            {
+              "id": "2026-10-29-analysis-2",
+              "text": "短题6"
+            },
+            {
+              "id": "2026-10-29-analysis-3",
+              "text": "计算/谱图1—2"
+            }
+          ],
+          "notes": []
+        },
+        "organic": {
+          "raw": "剩余专题4（可改名）；产物判断10；机理/合成1",
+          "tasks": [
+            {
+              "id": "2026-10-29-organic-1",
+              "text": "剩余专题4（可改名）"
+            },
+            {
+              "id": "2026-10-29-organic-2",
+              "text": "产物判断10"
+            },
+            {
+              "id": "2026-10-29-organic-3",
+              "text": "机理/合成1"
+            }
+          ],
+          "notes": []
+        },
+        "english": {
+          "raw": "词汇20分钟；2020年：阅读3—4限时与订正；大作文提纲1份",
+          "tasks": [
+            {
+              "id": "2026-10-29-english-1",
+              "text": "词汇20分钟"
+            },
+            {
+              "id": "2026-10-29-english-2",
+              "text": "2020年：阅读3—4限时与订正"
+            },
+            {
+              "id": "2026-10-29-english-3",
+              "text": "大作文提纲1份"
+            }
+          ],
+          "notes": []
+        },
+        "politics": {
+          "raw": "客观十套卷第3套：限时做；圈出错题/猜对题；配手册",
+          "tasks": [
+            {
+              "id": "2026-10-29-politics-1",
+              "text": "客观十套卷第3套：限时做"
+            },
+            {
+              "id": "2026-10-29-politics-2",
+              "text": "圈出错题/猜对题"
+            },
+            {
+              "id": "2026-10-29-politics-3",
+              "text": "配手册"
+            }
+          ],
+          "notes": []
+        }
+      },
+      "tracking": {
+        "subjectStatus": {
+          "pharm": null,
+          "analysis": null,
+          "organic": null,
+          "english": null,
+          "politics": null
+        },
+        "actualHours": null,
+        "note": null
+      },
+      "events": []
+    },
+    {
+      "date": "2026-10-30",
+      "day": 9,
+      "phaseId": "phase-1",
+      "phase": "首轮收口",
+      "plannedHours": 10,
+      "subjects": {
+        "pharm": {
+          "raw": "剩余专题5（可改名）；基础15题；简答提纲2",
+          "tasks": [
+            {
+              "id": "2026-10-30-pharm-1",
+              "text": "剩余专题5（可改名）"
+            },
+            {
+              "id": "2026-10-30-pharm-2",
+              "text": "基础15题"
+            },
+            {
+              "id": "2026-10-30-pharm-3",
+              "text": "简答提纲2"
+            }
+          ],
+          "notes": []
+        },
+        "analysis": {
+          "raw": "剩余专题5（可改名）；短题6；计算/谱图1—2",
+          "tasks": [
+            {
+              "id": "2026-10-30-analysis-1",
+              "text": "剩余专题5（可改名）"
+            },
+            {
+              "id": "2026-10-30-analysis-2",
+              "text": "短题6"
+            },
+            {
+              "id": "2026-10-30-analysis-3",
+              "text": "计算/谱图1—2"
+            }
+          ],
+          "notes": []
+        },
+        "organic": {
+          "raw": "剩余专题5（可改名）；产物判断10；机理/合成1",
+          "tasks": [
+            {
+              "id": "2026-10-30-organic-1",
+              "text": "剩余专题5（可改名）"
+            },
+            {
+              "id": "2026-10-30-organic-2",
+              "text": "产物判断10"
+            },
+            {
+              "id": "2026-10-30-organic-3",
+              "text": "机理/合成1"
+            }
+          ],
+          "notes": []
+        },
+        "english": {
+          "raw": "词汇20分钟；2020年：完形、新题型、翻译；大作文1篇；归纳错因",
+          "tasks": [
+            {
+              "id": "2026-10-30-english-1",
+              "text": "词汇20分钟"
+            },
+            {
+              "id": "2026-10-30-english-2",
+              "text": "2020年：完形、新题型、翻译"
+            },
+            {
+              "id": "2026-10-30-english-3",
+              "text": "大作文1篇"
+            },
+            {
+              "id": "2026-10-30-english-4",
+              "text": "归纳错因"
+            }
+          ],
+          "notes": []
+        },
+        "politics": {
+          "raw": "客观十套卷第3套：订正回查手册；闭卷辨析易混选项",
+          "tasks": [
+            {
+              "id": "2026-10-30-politics-1",
+              "text": "客观十套卷第3套：订正回查手册"
+            },
+            {
+              "id": "2026-10-30-politics-2",
+              "text": "闭卷辨析易混选项"
+            }
+          ],
+          "notes": []
+        }
+      },
+      "tracking": {
+        "subjectStatus": {
+          "pharm": null,
+          "analysis": null,
+          "organic": null,
+          "english": null,
+          "politics": null
+        },
+        "actualHours": null,
+        "note": null
+      },
+      "events": []
+    },
+    {
+      "date": "2026-10-31",
+      "day": 10,
+      "phaseId": "phase-1",
+      "phase": "首轮收口",
+      "plannedHours": 10,
+      "subjects": {
+        "pharm": {
+          "raw": "剩余专题6（可改名）；基础15题；简答提纲2",
+          "tasks": [
+            {
+              "id": "2026-10-31-pharm-1",
+              "text": "剩余专题6（可改名）"
+            },
+            {
+              "id": "2026-10-31-pharm-2",
+              "text": "基础15题"
+            },
+            {
+              "id": "2026-10-31-pharm-3",
+              "text": "简答提纲2"
+            }
+          ],
+          "notes": []
+        },
+        "analysis": {
+          "raw": "剩余专题6（可改名）；短题6；计算/谱图1—2",
+          "tasks": [
+            {
+              "id": "2026-10-31-analysis-1",
+              "text": "剩余专题6（可改名）"
+            },
+            {
+              "id": "2026-10-31-analysis-2",
+              "text": "短题6"
+            },
+            {
+              "id": "2026-10-31-analysis-3",
+              "text": "计算/谱图1—2"
+            }
+          ],
+          "notes": []
+        },
+        "organic": {
+          "raw": "剩余专题6（可改名）；产物判断10；机理/合成1",
+          "tasks": [
+            {
+              "id": "2026-10-31-organic-1",
+              "text": "剩余专题6（可改名）"
+            },
+            {
+              "id": "2026-10-31-organic-2",
+              "text": "产物判断10"
+            },
+            {
+              "id": "2026-10-31-organic-3",
+              "text": "机理/合成1"
+            }
+          ],
+          "notes": []
+        },
+        "english": {
+          "raw": "词汇20分钟；2021年：阅读1—2限时与订正；小作文1篇",
+          "tasks": [
+            {
+              "id": "2026-10-31-english-1",
+              "text": "词汇20分钟"
+            },
+            {
+              "id": "2026-10-31-english-2",
+              "text": "2021年：阅读1—2限时与订正"
+            },
+            {
+              "id": "2026-10-31-english-3",
+              "text": "小作文1篇"
+            }
+          ],
+          "notes": []
+        },
+        "politics": {
+          "raw": "客观十套卷第4套：限时做；圈出错题/猜对题；配手册",
+          "tasks": [
+            {
+              "id": "2026-10-31-politics-1",
+              "text": "客观十套卷第4套：限时做"
+            },
+            {
+              "id": "2026-10-31-politics-2",
+              "text": "圈出错题/猜对题"
+            },
+            {
+              "id": "2026-10-31-politics-3",
+              "text": "配手册"
+            }
+          ],
+          "notes": []
+        }
+      },
+      "tracking": {
+        "subjectStatus": {
+          "pharm": null,
+          "analysis": null,
+          "organic": null,
+          "english": null,
+          "politics": null
+        },
+        "actualHours": null,
+        "note": null
+      },
+      "events": []
+    },
+    {
+      "date": "2026-11-01",
+      "day": 11,
+      "phaseId": "phase-1",
+      "phase": "首轮收口",
+      "plannedHours": 10,
+      "subjects": {
+        "pharm": {
+          "raw": "剩余专题7（可改名）；基础15题；简答提纲2",
+          "tasks": [
+            {
+              "id": "2026-11-01-pharm-1",
+              "text": "剩余专题7（可改名）"
+            },
+            {
+              "id": "2026-11-01-pharm-2",
+              "text": "基础15题"
+            },
+            {
+              "id": "2026-11-01-pharm-3",
+              "text": "简答提纲2"
+            }
+          ],
+          "notes": []
+        },
+        "analysis": {
+          "raw": "剩余专题7（可改名）；短题6；计算/谱图1—2",
+          "tasks": [
+            {
+              "id": "2026-11-01-analysis-1",
+              "text": "剩余专题7（可改名）"
+            },
+            {
+              "id": "2026-11-01-analysis-2",
+              "text": "短题6"
+            },
+            {
+              "id": "2026-11-01-analysis-3",
+              "text": "计算/谱图1—2"
+            }
+          ],
+          "notes": []
+        },
+        "organic": {
+          "raw": "剩余专题7（可改名）；产物判断10；机理/合成1",
+          "tasks": [
+            {
+              "id": "2026-11-01-organic-1",
+              "text": "剩余专题7（可改名）"
+            },
+            {
+              "id": "2026-11-01-organic-2",
+              "text": "产物判断10"
+            },
+            {
+              "id": "2026-11-01-organic-3",
+              "text": "机理/合成1"
+            }
+          ],
+          "notes": []
+        },
+        "english": {
+          "raw": "词汇20分钟；2021年：阅读3—4限时与订正；大作文提纲1份",
+          "tasks": [
+            {
+              "id": "2026-11-01-english-1",
+              "text": "词汇20分钟"
+            },
+            {
+              "id": "2026-11-01-english-2",
+              "text": "2021年：阅读3—4限时与订正"
+            },
+            {
+              "id": "2026-11-01-english-3",
+              "text": "大作文提纲1份"
+            }
+          ],
+          "notes": []
+        },
+        "politics": {
+          "raw": "客观十套卷第4套：订正回查手册；闭卷辨析易混选项",
+          "tasks": [
+            {
+              "id": "2026-11-01-politics-1",
+              "text": "客观十套卷第4套：订正回查手册"
+            },
+            {
+              "id": "2026-11-01-politics-2",
+              "text": "闭卷辨析易混选项"
+            }
+          ],
+          "notes": []
+        }
+      },
+      "tracking": {
+        "subjectStatus": {
+          "pharm": null,
+          "analysis": null,
+          "organic": null,
+          "english": null,
+          "politics": null
+        },
+        "actualHours": null,
+        "note": null
+      },
+      "events": []
+    },
+    {
+      "date": "2026-11-02",
+      "day": 12,
+      "phaseId": "phase-1",
+      "phase": "首轮收口",
+      "plannedHours": 10,
+      "subjects": {
+        "pharm": {
+          "raw": "剩余专题8（可改名）；基础15题；简答提纲2",
+          "tasks": [
+            {
+              "id": "2026-11-02-pharm-1",
+              "text": "剩余专题8（可改名）"
+            },
+            {
+              "id": "2026-11-02-pharm-2",
+              "text": "基础15题"
+            },
+            {
+              "id": "2026-11-02-pharm-3",
+              "text": "简答提纲2"
+            }
+          ],
+          "notes": []
+        },
+        "analysis": {
+          "raw": "剩余专题8（可改名）；短题6；计算/谱图1—2",
+          "tasks": [
+            {
+              "id": "2026-11-02-analysis-1",
+              "text": "剩余专题8（可改名）"
+            },
+            {
+              "id": "2026-11-02-analysis-2",
+              "text": "短题6"
+            },
+            {
+              "id": "2026-11-02-analysis-3",
+              "text": "计算/谱图1—2"
+            }
+          ],
+          "notes": []
+        },
+        "organic": {
+          "raw": "剩余专题8（可改名）；产物判断10；机理/合成1",
+          "tasks": [
+            {
+              "id": "2026-11-02-organic-1",
+              "text": "剩余专题8（可改名）"
+            },
+            {
+              "id": "2026-11-02-organic-2",
+              "text": "产物判断10"
+            },
+            {
+              "id": "2026-11-02-organic-3",
+              "text": "机理/合成1"
+            }
+          ],
+          "notes": []
+        },
+        "english": {
+          "raw": "词汇20分钟；2021年：完形、新题型、翻译；大作文1篇；归纳错因",
+          "tasks": [
+            {
+              "id": "2026-11-02-english-1",
+              "text": "词汇20分钟"
+            },
+            {
+              "id": "2026-11-02-english-2",
+              "text": "2021年：完形、新题型、翻译"
+            },
+            {
+              "id": "2026-11-02-english-3",
+              "text": "大作文1篇"
+            },
+            {
+              "id": "2026-11-02-english-4",
+              "text": "归纳错因"
+            }
+          ],
+          "notes": []
+        },
+        "politics": {
+          "raw": "客观十套卷第5套：限时做；圈出错题/猜对题；配手册",
+          "tasks": [
+            {
+              "id": "2026-11-02-politics-1",
+              "text": "客观十套卷第5套：限时做"
+            },
+            {
+              "id": "2026-11-02-politics-2",
+              "text": "圈出错题/猜对题"
+            },
+            {
+              "id": "2026-11-02-politics-3",
+              "text": "配手册"
+            }
+          ],
+          "notes": []
+        }
+      },
+      "tracking": {
+        "subjectStatus": {
+          "pharm": null,
+          "analysis": null,
+          "organic": null,
+          "english": null,
+          "politics": null
+        },
+        "actualHours": null,
+        "note": null
+      },
+      "events": []
+    },
+    {
+      "date": "2026-11-03",
+      "day": 13,
+      "phaseId": "phase-1",
+      "phase": "首轮收口",
+      "plannedHours": 10,
+      "subjects": {
+        "pharm": {
+          "raw": "剩余专题9（可改名）；基础15题；简答提纲2",
+          "tasks": [
+            {
+              "id": "2026-11-03-pharm-1",
+              "text": "剩余专题9（可改名）"
+            },
+            {
+              "id": "2026-11-03-pharm-2",
+              "text": "基础15题"
+            },
+            {
+              "id": "2026-11-03-pharm-3",
+              "text": "简答提纲2"
+            }
+          ],
+          "notes": []
+        },
+        "analysis": {
+          "raw": "剩余专题9（可改名）；短题6；计算/谱图1—2",
+          "tasks": [
+            {
+              "id": "2026-11-03-analysis-1",
+              "text": "剩余专题9（可改名）"
+            },
+            {
+              "id": "2026-11-03-analysis-2",
+              "text": "短题6"
+            },
+            {
+              "id": "2026-11-03-analysis-3",
+              "text": "计算/谱图1—2"
+            }
+          ],
+          "notes": []
+        },
+        "organic": {
+          "raw": "剩余专题9（可改名）；产物判断10；机理/合成1",
+          "tasks": [
+            {
+              "id": "2026-11-03-organic-1",
+              "text": "剩余专题9（可改名）"
+            },
+            {
+              "id": "2026-11-03-organic-2",
+              "text": "产物判断10"
+            },
+            {
+              "id": "2026-11-03-organic-3",
+              "text": "机理/合成1"
+            }
+          ],
+          "notes": []
+        },
+        "english": {
+          "raw": "词汇20分钟；2022年：阅读1—2限时与订正；小作文1篇",
+          "tasks": [
+            {
+              "id": "2026-11-03-english-1",
+              "text": "词汇20分钟"
+            },
+            {
+              "id": "2026-11-03-english-2",
+              "text": "2022年：阅读1—2限时与订正"
+            },
+            {
+              "id": "2026-11-03-english-3",
+              "text": "小作文1篇"
+            }
+          ],
+          "notes": []
+        },
+        "politics": {
+          "raw": "客观十套卷第5套：订正回查手册；闭卷辨析易混选项",
+          "tasks": [
+            {
+              "id": "2026-11-03-politics-1",
+              "text": "客观十套卷第5套：订正回查手册"
+            },
+            {
+              "id": "2026-11-03-politics-2",
+              "text": "闭卷辨析易混选项"
+            }
+          ],
+          "notes": []
+        }
+      },
+      "tracking": {
+        "subjectStatus": {
+          "pharm": null,
+          "analysis": null,
+          "organic": null,
+          "english": null,
+          "politics": null
+        },
+        "actualHours": null,
+        "note": null
+      },
+      "events": []
+    },
+    {
+      "date": "2026-11-04",
+      "day": 14,
+      "phaseId": "phase-1",
+      "phase": "首轮收口",
+      "plannedHours": 10,
+      "subjects": {
+        "pharm": {
+          "raw": "本周药理补漏；错题10；闭卷比较2组；本日从现有任务中替换出合计2小时补漏",
+          "tasks": [
+            {
+              "id": "2026-11-04-pharm-1",
+              "text": "本周药理补漏"
+            },
+            {
+              "id": "2026-11-04-pharm-2",
+              "text": "错题10"
+            },
+            {
+              "id": "2026-11-04-pharm-3",
+              "text": "闭卷比较2组"
+            }
+          ],
+          "notes": [
+            "本日从现有任务中替换出合计2小时补漏"
+          ]
+        },
+        "analysis": {
+          "raw": "本周分析补漏；错题6；计算/谱图1",
+          "tasks": [
+            {
+              "id": "2026-11-04-analysis-1",
+              "text": "本周分析补漏"
+            },
+            {
+              "id": "2026-11-04-analysis-2",
+              "text": "错题6"
+            },
+            {
+              "id": "2026-11-04-analysis-3",
+              "text": "计算/谱图1"
+            }
+          ],
+          "notes": []
+        },
+        "organic": {
+          "raw": "本周有机补漏；错反应8；机理/合成1",
+          "tasks": [
+            {
+              "id": "2026-11-04-organic-1",
+              "text": "本周有机补漏"
+            },
+            {
+              "id": "2026-11-04-organic-2",
+              "text": "错反应8"
+            },
+            {
+              "id": "2026-11-04-organic-3",
+              "text": "机理/合成1"
+            }
+          ],
+          "notes": []
+        },
+        "english": {
+          "raw": "词汇20分钟；2022年：阅读3—4限时与订正；大作文提纲1份",
+          "tasks": [
+            {
+              "id": "2026-11-04-english-1",
+              "text": "词汇20分钟"
+            },
+            {
+              "id": "2026-11-04-english-2",
+              "text": "2022年：阅读3—4限时与订正"
+            },
+            {
+              "id": "2026-11-04-english-3",
+              "text": "大作文提纲1份"
+            }
+          ],
+          "notes": []
+        },
+        "politics": {
+          "raw": "客观十套卷第6套：限时做；圈出错题/猜对题；配手册",
+          "tasks": [
+            {
+              "id": "2026-11-04-politics-1",
+              "text": "客观十套卷第6套：限时做"
+            },
+            {
+              "id": "2026-11-04-politics-2",
+              "text": "圈出错题/猜对题"
+            },
+            {
+              "id": "2026-11-04-politics-3",
+              "text": "配手册"
+            }
+          ],
+          "notes": []
+        }
+      },
+      "tracking": {
+        "subjectStatus": {
+          "pharm": null,
+          "analysis": null,
+          "organic": null,
+          "english": null,
+          "politics": null
+        },
+        "actualHours": null,
+        "note": null
+      },
+      "events": [
+        {
+          "type": "catchup",
+          "label": "本周补漏",
+          "durationMinutes": 120,
+          "replacesNormalTasks": true
+        }
+      ]
+    },
+    {
+      "date": "2026-11-05",
+      "day": 15,
+      "phaseId": "phase-1",
+      "phase": "首轮收口",
+      "plannedHours": 10,
+      "subjects": {
+        "pharm": {
+          "raw": "剩余专题10（可改名）；基础15题；简答提纲2",
+          "tasks": [
+            {
+              "id": "2026-11-05-pharm-1",
+              "text": "剩余专题10（可改名）"
+            },
+            {
+              "id": "2026-11-05-pharm-2",
+              "text": "基础15题"
+            },
+            {
+              "id": "2026-11-05-pharm-3",
+              "text": "简答提纲2"
+            }
+          ],
+          "notes": []
+        },
+        "analysis": {
+          "raw": "剩余专题10（可改名）；短题6；计算/谱图1—2",
+          "tasks": [
+            {
+              "id": "2026-11-05-analysis-1",
+              "text": "剩余专题10（可改名）"
+            },
+            {
+              "id": "2026-11-05-analysis-2",
+              "text": "短题6"
+            },
+            {
+              "id": "2026-11-05-analysis-3",
+              "text": "计算/谱图1—2"
+            }
+          ],
+          "notes": []
+        },
+        "organic": {
+          "raw": "剩余专题10（可改名）；产物判断10；机理/合成1",
+          "tasks": [
+            {
+              "id": "2026-11-05-organic-1",
+              "text": "剩余专题10（可改名）"
+            },
+            {
+              "id": "2026-11-05-organic-2",
+              "text": "产物判断10"
+            },
+            {
+              "id": "2026-11-05-organic-3",
+              "text": "机理/合成1"
+            }
+          ],
+          "notes": []
+        },
+        "english": {
+          "raw": "词汇20分钟；2022年：完形、新题型、翻译；大作文1篇；归纳错因",
+          "tasks": [
+            {
+              "id": "2026-11-05-english-1",
+              "text": "词汇20分钟"
+            },
+            {
+              "id": "2026-11-05-english-2",
+              "text": "2022年：完形、新题型、翻译"
+            },
+            {
+              "id": "2026-11-05-english-3",
+              "text": "大作文1篇"
+            },
+            {
+              "id": "2026-11-05-english-4",
+              "text": "归纳错因"
+            }
+          ],
+          "notes": []
+        },
+        "politics": {
+          "raw": "客观十套卷第6套：订正回查手册；闭卷辨析易混选项",
+          "tasks": [
+            {
+              "id": "2026-11-05-politics-1",
+              "text": "客观十套卷第6套：订正回查手册"
+            },
+            {
+              "id": "2026-11-05-politics-2",
+              "text": "闭卷辨析易混选项"
+            }
+          ],
+          "notes": []
+        }
+      },
+      "tracking": {
+        "subjectStatus": {
+          "pharm": null,
+          "analysis": null,
+          "organic": null,
+          "english": null,
+          "politics": null
+        },
+        "actualHours": null,
+        "note": null
+      },
+      "events": []
+    },
+    {
+      "date": "2026-11-06",
+      "day": 16,
+      "phaseId": "phase-1",
+      "phase": "首轮收口",
+      "plannedHours": 10,
+      "subjects": {
+        "pharm": {
+          "raw": "剩余专题11（可改名）；基础15题；简答提纲2",
+          "tasks": [
+            {
+              "id": "2026-11-06-pharm-1",
+              "text": "剩余专题11（可改名）"
+            },
+            {
+              "id": "2026-11-06-pharm-2",
+              "text": "基础15题"
+            },
+            {
+              "id": "2026-11-06-pharm-3",
+              "text": "简答提纲2"
+            }
+          ],
+          "notes": []
+        },
+        "analysis": {
+          "raw": "剩余专题11（可改名）；短题6；计算/谱图1—2",
+          "tasks": [
+            {
+              "id": "2026-11-06-analysis-1",
+              "text": "剩余专题11（可改名）"
+            },
+            {
+              "id": "2026-11-06-analysis-2",
+              "text": "短题6"
+            },
+            {
+              "id": "2026-11-06-analysis-3",
+              "text": "计算/谱图1—2"
+            }
+          ],
+          "notes": []
+        },
+        "organic": {
+          "raw": "剩余专题11（可改名）；产物判断10；机理/合成1",
+          "tasks": [
+            {
+              "id": "2026-11-06-organic-1",
+              "text": "剩余专题11（可改名）"
+            },
+            {
+              "id": "2026-11-06-organic-2",
+              "text": "产物判断10"
+            },
+            {
+              "id": "2026-11-06-organic-3",
+              "text": "机理/合成1"
+            }
+          ],
+          "notes": []
+        },
+        "english": {
+          "raw": "词汇20分钟；2023年：阅读1—2限时与订正；小作文1篇",
+          "tasks": [
+            {
+              "id": "2026-11-06-english-1",
+              "text": "词汇20分钟"
+            },
+            {
+              "id": "2026-11-06-english-2",
+              "text": "2023年：阅读1—2限时与订正"
+            },
+            {
+              "id": "2026-11-06-english-3",
+              "text": "小作文1篇"
+            }
+          ],
+          "notes": []
+        },
+        "politics": {
+          "raw": "客观十套卷第7套：限时做；圈出错题/猜对题；配手册",
+          "tasks": [
+            {
+              "id": "2026-11-06-politics-1",
+              "text": "客观十套卷第7套：限时做"
+            },
+            {
+              "id": "2026-11-06-politics-2",
+              "text": "圈出错题/猜对题"
+            },
+            {
+              "id": "2026-11-06-politics-3",
+              "text": "配手册"
+            }
+          ],
+          "notes": []
+        }
+      },
+      "tracking": {
+        "subjectStatus": {
+          "pharm": null,
+          "analysis": null,
+          "organic": null,
+          "english": null,
+          "politics": null
+        },
+        "actualHours": null,
+        "note": null
+      },
+      "events": []
+    },
+    {
+      "date": "2026-11-07",
+      "day": 17,
+      "phaseId": "phase-1",
+      "phase": "首轮收口",
+      "plannedHours": 10,
+      "subjects": {
+        "pharm": {
+          "raw": "剩余专题12（可改名）；基础15题；简答提纲2",
+          "tasks": [
+            {
+              "id": "2026-11-07-pharm-1",
+              "text": "剩余专题12（可改名）"
+            },
+            {
+              "id": "2026-11-07-pharm-2",
+              "text": "基础15题"
+            },
+            {
+              "id": "2026-11-07-pharm-3",
+              "text": "简答提纲2"
+            }
+          ],
+          "notes": []
+        },
+        "analysis": {
+          "raw": "剩余专题12（可改名）；短题6；计算/谱图1—2",
+          "tasks": [
+            {
+              "id": "2026-11-07-analysis-1",
+              "text": "剩余专题12（可改名）"
+            },
+            {
+              "id": "2026-11-07-analysis-2",
+              "text": "短题6"
+            },
+            {
+              "id": "2026-11-07-analysis-3",
+              "text": "计算/谱图1—2"
+            }
+          ],
+          "notes": []
+        },
+        "organic": {
+          "raw": "剩余专题12（可改名）；产物判断10；机理/合成1",
+          "tasks": [
+            {
+              "id": "2026-11-07-organic-1",
+              "text": "剩余专题12（可改名）"
+            },
+            {
+              "id": "2026-11-07-organic-2",
+              "text": "产物判断10"
+            },
+            {
+              "id": "2026-11-07-organic-3",
+              "text": "机理/合成1"
+            }
+          ],
+          "notes": []
+        },
+        "english": {
+          "raw": "词汇20分钟；2023年：阅读3—4限时与订正；大作文提纲1份",
+          "tasks": [
+            {
+              "id": "2026-11-07-english-1",
+              "text": "词汇20分钟"
+            },
+            {
+              "id": "2026-11-07-english-2",
+              "text": "2023年：阅读3—4限时与订正"
+            },
+            {
+              "id": "2026-11-07-english-3",
+              "text": "大作文提纲1份"
+            }
+          ],
+          "notes": []
+        },
+        "politics": {
+          "raw": "客观十套卷第7套：订正回查手册；闭卷辨析易混选项",
+          "tasks": [
+            {
+              "id": "2026-11-07-politics-1",
+              "text": "客观十套卷第7套：订正回查手册"
+            },
+            {
+              "id": "2026-11-07-politics-2",
+              "text": "闭卷辨析易混选项"
+            }
+          ],
+          "notes": []
+        }
+      },
+      "tracking": {
+        "subjectStatus": {
+          "pharm": null,
+          "analysis": null,
+          "organic": null,
+          "english": null,
+          "politics": null
+        },
+        "actualHours": null,
+        "note": null
+      },
+      "events": []
+    },
+    {
+      "date": "2026-11-08",
+      "day": 18,
+      "phaseId": "phase-1",
+      "phase": "首轮收口",
+      "plannedHours": 10,
+      "subjects": {
+        "pharm": {
+          "raw": "首轮验收：基础抽测15题；闭卷简答3；标出未过项",
+          "tasks": [
+            {
+              "id": "2026-11-08-pharm-1",
+              "text": "首轮验收：基础抽测15题"
+            },
+            {
+              "id": "2026-11-08-pharm-2",
+              "text": "闭卷简答3"
+            },
+            {
+              "id": "2026-11-08-pharm-3",
+              "text": "标出未过项"
+            }
+          ],
+          "notes": []
+        },
+        "analysis": {
+          "raw": "首轮验收：短题6；计算/谱图2；标出未过项",
+          "tasks": [
+            {
+              "id": "2026-11-08-analysis-1",
+              "text": "首轮验收：短题6"
+            },
+            {
+              "id": "2026-11-08-analysis-2",
+              "text": "计算/谱图2"
+            },
+            {
+              "id": "2026-11-08-analysis-3",
+              "text": "标出未过项"
+            }
+          ],
+          "notes": []
+        },
+        "organic": {
+          "raw": "首轮验收：反应10；机理/合成2；标出未过项",
+          "tasks": [
+            {
+              "id": "2026-11-08-organic-1",
+              "text": "首轮验收：反应10"
+            },
+            {
+              "id": "2026-11-08-organic-2",
+              "text": "机理/合成2"
+            },
+            {
+              "id": "2026-11-08-organic-3",
+              "text": "标出未过项"
+            }
+          ],
+          "notes": []
+        },
+        "english": {
+          "raw": "词汇20分钟；2023年：完形、新题型、翻译；大作文1篇；归纳错因",
+          "tasks": [
+            {
+              "id": "2026-11-08-english-1",
+              "text": "词汇20分钟"
+            },
+            {
+              "id": "2026-11-08-english-2",
+              "text": "2023年：完形、新题型、翻译"
+            },
+            {
+              "id": "2026-11-08-english-3",
+              "text": "大作文1篇"
+            },
+            {
+              "id": "2026-11-08-english-4",
+              "text": "归纳错因"
+            }
+          ],
+          "notes": []
+        },
+        "politics": {
+          "raw": "客观十套卷第8套：限时做；圈出错题/猜对题；配手册",
+          "tasks": [
+            {
+              "id": "2026-11-08-politics-1",
+              "text": "客观十套卷第8套：限时做"
+            },
+            {
+              "id": "2026-11-08-politics-2",
+              "text": "圈出错题/猜对题"
+            },
+            {
+              "id": "2026-11-08-politics-3",
+              "text": "配手册"
+            }
+          ],
+          "notes": []
+        }
+      },
+      "tracking": {
+        "subjectStatus": {
+          "pharm": null,
+          "analysis": null,
+          "organic": null,
+          "english": null,
+          "politics": null
+        },
+        "actualHours": null,
+        "note": null
+      },
+      "events": [
+        {
+          "type": "milestone",
+          "label": "首轮验收"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "day": 19,
+      "phaseId": "phase-2",
+      "phase": "二轮复测",
+      "plannedHours": 10,
+      "subjects": {
+        "pharm": {
+          "raw": "全纲轮转1：闭卷提纲3；旧错15题；药物比较2组",
+          "tasks": [
+            {
+              "id": "2026-11-09-pharm-1",
+              "text": "全纲轮转1：闭卷提纲3"
+            },
+            {
+              "id": "2026-11-09-pharm-2",
+              "text": "旧错15题"
+            },
+            {
+              "id": "2026-11-09-pharm-3",
+              "text": "药物比较2组"
+            }
+          ],
+          "notes": []
+        },
+        "analysis": {
+          "raw": "全纲轮转1：公式/条件默写；旧错6；计算/谱图2",
+          "tasks": [
+            {
+              "id": "2026-11-09-analysis-1",
+              "text": "全纲轮转1：公式/条件默写"
+            },
+            {
+              "id": "2026-11-09-analysis-2",
+              "text": "旧错6"
+            },
+            {
+              "id": "2026-11-09-analysis-3",
+              "text": "计算/谱图2"
+            }
+          ],
+          "notes": []
+        },
+        "organic": {
+          "raw": "全纲轮转1：旧错反应10；机理/合成2；条件默写",
+          "tasks": [
+            {
+              "id": "2026-11-09-organic-1",
+              "text": "全纲轮转1：旧错反应10"
+            },
+            {
+              "id": "2026-11-09-organic-2",
+              "text": "机理/合成2"
+            },
+            {
+              "id": "2026-11-09-organic-3",
+              "text": "条件默写"
+            }
+          ],
+          "notes": []
+        },
+        "english": {
+          "raw": "词汇20分钟；2018年复测：错题/猜对题重做；阅读定位与关键句",
+          "tasks": [
+            {
+              "id": "2026-11-09-english-1",
+              "text": "词汇20分钟"
+            },
+            {
+              "id": "2026-11-09-english-2",
+              "text": "2018年复测：错题/猜对题重做"
+            },
+            {
+              "id": "2026-11-09-english-3",
+              "text": "阅读定位与关键句"
+            }
+          ],
+          "notes": []
+        },
+        "politics": {
+          "raw": "客观十套卷第8套：订正回查手册；闭卷辨析易混选项",
+          "tasks": [
+            {
+              "id": "2026-11-09-politics-1",
+              "text": "客观十套卷第8套：订正回查手册"
+            },
+            {
+              "id": "2026-11-09-politics-2",
+              "text": "闭卷辨析易混选项"
+            }
+          ],
+          "notes": []
+        }
+      },
+      "tracking": {
+        "subjectStatus": {
+          "pharm": null,
+          "analysis": null,
+          "organic": null,
+          "english": null,
+          "politics": null
+        },
+        "actualHours": null,
+        "note": null
+      },
+      "events": []
+    },
+    {
+      "date": "2026-11-10",
+      "day": 20,
+      "phaseId": "phase-2",
+      "phase": "二轮复测",
+      "plannedHours": 10,
+      "subjects": {
+        "pharm": {
+          "raw": "全纲轮转2：闭卷提纲3；旧错15题；药物比较2组",
+          "tasks": [
+            {
+              "id": "2026-11-10-pharm-1",
+              "text": "全纲轮转2：闭卷提纲3"
+            },
+            {
+              "id": "2026-11-10-pharm-2",
+              "text": "旧错15题"
+            },
+            {
+              "id": "2026-11-10-pharm-3",
+              "text": "药物比较2组"
+            }
+          ],
+          "notes": []
+        },
+        "analysis": {
+          "raw": "全纲轮转2：公式/条件默写；旧错6；计算/谱图2",
+          "tasks": [
+            {
+              "id": "2026-11-10-analysis-1",
+              "text": "全纲轮转2：公式/条件默写"
+            },
+            {
+              "id": "2026-11-10-analysis-2",
+              "text": "旧错6"
+            },
+            {
+              "id": "2026-11-10-analysis-3",
+              "text": "计算/谱图2"
+            }
+          ],
+          "notes": []
+        },
+        "organic": {
+          "raw": "全纲轮转2：旧错反应10；机理/合成2；条件默写",
+          "tasks": [
+            {
+              "id": "2026-11-10-organic-1",
+              "text": "全纲轮转2：旧错反应10"
+            },
+            {
+              "id": "2026-11-10-organic-2",
+              "text": "机理/合成2"
+            },
+            {
+              "id": "2026-11-10-organic-3",
+              "text": "条件默写"
+            }
+          ],
+          "notes": []
+        },
+        "english": {
+          "raw": "词汇20分钟；2018年复测：非阅读错题重做；作文改写1篇",
+          "tasks": [
+            {
+              "id": "2026-11-10-english-1",
+              "text": "词汇20分钟"
+            },
+            {
+              "id": "2026-11-10-english-2",
+              "text": "2018年复测：非阅读错题重做"
+            },
+            {
+              "id": "2026-11-10-english-3",
+              "text": "作文改写1篇"
+            }
+          ],
+          "notes": []
+        },
+        "politics": {
+          "raw": "客观十套卷第9套：限时做；圈出错题/猜对题；配手册",
+          "tasks": [
+            {
+              "id": "2026-11-10-politics-1",
+              "text": "客观十套卷第9套：限时做"
+            },
+            {
+              "id": "2026-11-10-politics-2",
+              "text": "圈出错题/猜对题"
+            },
+            {
+              "id": "2026-11-10-politics-3",
+              "text": "配手册"
+            }
+          ],
+          "notes": []
+        }
+      },
+      "tracking": {
+        "subjectStatus": {
+          "pharm": null,
+          "analysis": null,
+          "organic": null,
+          "english": null,
+          "politics": null
+        },
+        "actualHours": null,
+        "note": null
+      },
+      "events": []
+    },
+    {
+      "date": "2026-11-11",
+      "day": 21,
+      "phaseId": "phase-2",
+      "phase": "二轮复测",
+      "plannedHours": 10,
+      "subjects": {
+        "pharm": {
+          "raw": "全纲轮转3：闭卷提纲3；旧错15题；药物比较2组；本日从现有任务中替换出合计2小时补漏",
+          "tasks": [
+            {
+              "id": "2026-11-11-pharm-1",
+              "text": "全纲轮转3：闭卷提纲3"
+            },
+            {
+              "id": "2026-11-11-pharm-2",
+              "text": "旧错15题"
+            },
+            {
+              "id": "2026-11-11-pharm-3",
+              "text": "药物比较2组"
+            }
+          ],
+          "notes": [
+            "本日从现有任务中替换出合计2小时补漏"
+          ]
+        },
+        "analysis": {
+          "raw": "全纲轮转3：公式/条件默写；旧错6；计算/谱图2",
+          "tasks": [
+            {
+              "id": "2026-11-11-analysis-1",
+              "text": "全纲轮转3：公式/条件默写"
+            },
+            {
+              "id": "2026-11-11-analysis-2",
+              "text": "旧错6"
+            },
+            {
+              "id": "2026-11-11-analysis-3",
+              "text": "计算/谱图2"
+            }
+          ],
+          "notes": []
+        },
+        "organic": {
+          "raw": "全纲轮转3：旧错反应10；机理/合成2；条件默写",
+          "tasks": [
+            {
+              "id": "2026-11-11-organic-1",
+              "text": "全纲轮转3：旧错反应10"
+            },
+            {
+              "id": "2026-11-11-organic-2",
+              "text": "机理/合成2"
+            },
+            {
+              "id": "2026-11-11-organic-3",
+              "text": "条件默写"
+            }
+          ],
+          "notes": []
+        },
+        "english": {
+          "raw": "词汇20分钟；2019年复测：错题/猜对题重做；阅读定位与关键句",
+          "tasks": [
+            {
+              "id": "2026-11-11-english-1",
+              "text": "词汇20分钟"
+            },
+            {
+              "id": "2026-11-11-english-2",
+              "text": "2019年复测：错题/猜对题重做"
+            },
+            {
+              "id": "2026-11-11-english-3",
+              "text": "阅读定位与关键句"
+            }
+          ],
+          "notes": []
+        },
+        "politics": {
+          "raw": "客观十套卷第9套：订正回查手册；闭卷辨析易混选项",
+          "tasks": [
+            {
+              "id": "2026-11-11-politics-1",
+              "text": "客观十套卷第9套：订正回查手册"
+            },
+            {
+              "id": "2026-11-11-politics-2",
+              "text": "闭卷辨析易混选项"
+            }
+          ],
+          "notes": []
+        }
+      },
+      "tracking": {
+        "subjectStatus": {
+          "pharm": null,
+          "analysis": null,
+          "organic": null,
+          "english": null,
+          "politics": null
+        },
+        "actualHours": null,
+        "note": null
+      },
+      "events": [
+        {
+          "type": "catchup",
+          "label": "本周补漏",
+          "durationMinutes": 120,
+          "replacesNormalTasks": true
+        }
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "day": 22,
+      "phaseId": "phase-2",
+      "phase": "二轮复测",
+      "plannedHours": 10,
+      "subjects": {
+        "pharm": {
+          "raw": "全纲轮转4：闭卷提纲3；旧错15题；药物比较2组",
+          "tasks": [
+            {
+              "id": "2026-11-12-pharm-1",
+              "text": "全纲轮转4：闭卷提纲3"
+            },
+            {
+              "id": "2026-11-12-pharm-2",
+              "text": "旧错15题"
+            },
+            {
+              "id": "2026-11-12-pharm-3",
+              "text": "药物比较2组"
+            }
+          ],
+          "notes": []
+        },
+        "analysis": {
+          "raw": "全纲轮转4：公式/条件默写；旧错6；计算/谱图2",
+          "tasks": [
+            {
+              "id": "2026-11-12-analysis-1",
+              "text": "全纲轮转4：公式/条件默写"
+            },
+            {
+              "id": "2026-11-12-analysis-2",
+              "text": "旧错6"
+            },
+            {
+              "id": "2026-11-12-analysis-3",
+              "text": "计算/谱图2"
+            }
+          ],
+          "notes": []
+        },
+        "organic": {
+          "raw": "全纲轮转4：旧错反应10；机理/合成2；条件默写",
+          "tasks": [
+            {
+              "id": "2026-11-12-organic-1",
+              "text": "全纲轮转4：旧错反应10"
+            },
+            {
+              "id": "2026-11-12-organic-2",
+              "text": "机理/合成2"
+            },
+            {
+              "id": "2026-11-12-organic-3",
+              "text": "条件默写"
+            }
+          ],
+          "notes": []
+        },
+        "english": {
+          "raw": "词汇20分钟；2019年复测：非阅读错题重做；作文改写1篇",
+          "tasks": [
+            {
+              "id": "2026-11-12-english-1",
+              "text": "词汇20分钟"
+            },
+            {
+              "id": "2026-11-12-english-2",
+              "text": "2019年复测：非阅读错题重做"
+            },
+            {
+              "id": "2026-11-12-english-3",
+              "text": "作文改写1篇"
+            }
+          ],
+          "notes": []
+        },
+        "politics": {
+          "raw": "客观十套卷第10套：限时做；圈出错题/猜对题；配手册",
+          "tasks": [
+            {
+              "id": "2026-11-12-politics-1",
+              "text": "客观十套卷第10套：限时做"
+            },
+            {
+              "id": "2026-11-12-politics-2",
+              "text": "圈出错题/猜对题"
+            },
+            {
+              "id": "2026-11-12-politics-3",
+              "text": "配手册"
+            }
+          ],
+          "notes": []
+        }
+      },
+      "tracking": {
+        "subjectStatus": {
+          "pharm": null,
+          "analysis": null,
+          "organic": null,
+          "english": null,
+          "politics": null
+        },
+        "actualHours": null,
+        "note": null
+      },
+      "events": []
+    },
+    {
+      "date": "2026-11-13",
+      "day": 23,
+      "phaseId": "phase-2",
+      "phase": "二轮复测",
+      "plannedHours": 10,
+      "subjects": {
+        "pharm": {
+          "raw": "全纲轮转5：闭卷提纲3；旧错15题；药物比较2组",
+          "tasks": [
+            {
+              "id": "2026-11-13-pharm-1",
+              "text": "全纲轮转5：闭卷提纲3"
+            },
+            {
+              "id": "2026-11-13-pharm-2",
+              "text": "旧错15题"
+            },
+            {
+              "id": "2026-11-13-pharm-3",
+              "text": "药物比较2组"
+            }
+          ],
+          "notes": []
+        },
+        "analysis": {
+          "raw": "全纲轮转5：公式/条件默写；旧错6；计算/谱图2",
+          "tasks": [
+            {
+              "id": "2026-11-13-analysis-1",
+              "text": "全纲轮转5：公式/条件默写"
+            },
+            {
+              "id": "2026-11-13-analysis-2",
+              "text": "旧错6"
+            },
+            {
+              "id": "2026-11-13-analysis-3",
+              "text": "计算/谱图2"
+            }
+          ],
+          "notes": []
+        },
+        "organic": {
+          "raw": "全纲轮转5：旧错反应10；机理/合成2；条件默写",
+          "tasks": [
+            {
+              "id": "2026-11-13-organic-1",
+              "text": "全纲轮转5：旧错反应10"
+            },
+            {
+              "id": "2026-11-13-organic-2",
+              "text": "机理/合成2"
+            },
+            {
+              "id": "2026-11-13-organic-3",
+              "text": "条件默写"
+            }
+          ],
+          "notes": []
+        },
+        "english": {
+          "raw": "词汇20分钟；2020年复测：错题/猜对题重做；阅读定位与关键句",
+          "tasks": [
+            {
+              "id": "2026-11-13-english-1",
+              "text": "词汇20分钟"
+            },
+            {
+              "id": "2026-11-13-english-2",
+              "text": "2020年复测：错题/猜对题重做"
+            },
+            {
+              "id": "2026-11-13-english-3",
+              "text": "阅读定位与关键句"
+            }
+          ],
+          "notes": []
+        },
+        "politics": {
+          "raw": "客观十套卷第10套：订正回查手册；闭卷辨析易混选项",
+          "tasks": [
+            {
+              "id": "2026-11-13-politics-1",
+              "text": "客观十套卷第10套：订正回查手册"
+            },
+            {
+              "id": "2026-11-13-politics-2",
+              "text": "闭卷辨析易混选项"
+            }
+          ],
+          "notes": []
+        }
+      },
+      "tracking": {
+        "subjectStatus": {
+          "pharm": null,
+          "analysis": null,
+          "organic": null,
+          "english": null,
+          "politics": null
+        },
+        "actualHours": null,
+        "note": null
+      },
+      "events": []
+    },
+    {
+      "date": "2026-11-14",
+      "day": 24,
+      "phaseId": "phase-2",
+      "phase": "二轮复测",
+      "plannedHours": 10,
+      "subjects": {
+        "pharm": {
+          "raw": "全纲轮转6：闭卷提纲3；旧错15题；药物比较2组",
+          "tasks": [
+            {
+              "id": "2026-11-14-pharm-1",
+              "text": "全纲轮转6：闭卷提纲3"
+            },
+            {
+              "id": "2026-11-14-pharm-2",
+              "text": "旧错15题"
+            },
+            {
+              "id": "2026-11-14-pharm-3",
+              "text": "药物比较2组"
+            }
+          ],
+          "notes": []
+        },
+        "analysis": {
+          "raw": "全纲轮转6：公式/条件默写；旧错6；计算/谱图2",
+          "tasks": [
+            {
+              "id": "2026-11-14-analysis-1",
+              "text": "全纲轮转6：公式/条件默写"
+            },
+            {
+              "id": "2026-11-14-analysis-2",
+              "text": "旧错6"
+            },
+            {
+              "id": "2026-11-14-analysis-3",
+              "text": "计算/谱图2"
+            }
+          ],
+          "notes": []
+        },
+        "organic": {
+          "raw": "全纲轮转6：旧错反应10；机理/合成2；条件默写",
+          "tasks": [
+            {
+              "id": "2026-11-14-organic-1",
+              "text": "全纲轮转6：旧错反应10"
+            },
+            {
+              "id": "2026-11-14-organic-2",
+              "text": "机理/合成2"
+            },
+            {
+              "id": "2026-11-14-organic-3",
+              "text": "条件默写"
+            }
+          ],
+          "notes": []
+        },
+        "english": {
+          "raw": "词汇20分钟；2020年复测：非阅读错题重做；作文改写1篇",
+          "tasks": [
+            {
+              "id": "2026-11-14-english-1",
+              "text": "词汇20分钟"
+            },
+            {
+              "id": "2026-11-14-english-2",
+              "text": "2020年复测：非阅读错题重做"
+            },
+            {
+              "id": "2026-11-14-english-3",
+              "text": "作文改写1篇"
+            }
+          ],
+          "notes": []
+        },
+        "politics": {
+          "raw": "肖八/旧卷客观错题15道；回查手册；主观框架1题",
+          "tasks": [
+            {
+              "id": "2026-11-14-politics-1",
+              "text": "肖八/旧卷客观错题15道"
+            },
+            {
+              "id": "2026-11-14-politics-2",
+              "text": "回查手册"
+            },
+            {
+              "id": "2026-11-14-politics-3",
+              "text": "主观框架1题"
+            }
+          ],
+          "notes": []
+        }
+      },
+      "tracking": {
+        "subjectStatus": {
+          "pharm": null,
+          "analysis": null,
+          "organic": null,
+          "english": null,
+          "politics": null
+        },
+        "actualHours": null,
+        "note": null
+      },
+      "events": []
+    },
+    {
+      "date": "2026-11-15",
+      "day": 25,
+      "phaseId": "phase-2",
+      "phase": "二轮复测",
+      "plannedHours": 10,
+      "subjects": {
+        "pharm": {
+          "raw": "全纲轮转7：闭卷提纲3；旧错15题；药物比较2组",
+          "tasks": [
+            {
+              "id": "2026-11-15-pharm-1",
+              "text": "全纲轮转7：闭卷提纲3"
+            },
+            {
+              "id": "2026-11-15-pharm-2",
+              "text": "旧错15题"
+            },
+            {
+              "id": "2026-11-15-pharm-3",
+              "text": "药物比较2组"
+            }
+          ],
+          "notes": []
+        },
+        "analysis": {
+          "raw": "全纲轮转7：公式/条件默写；旧错6；计算/谱图2",
+          "tasks": [
+            {
+              "id": "2026-11-15-analysis-1",
+              "text": "全纲轮转7：公式/条件默写"
+            },
+            {
+              "id": "2026-11-15-analysis-2",
+              "text": "旧错6"
+            },
+            {
+              "id": "2026-11-15-analysis-3",
+              "text": "计算/谱图2"
+            }
+          ],
+          "notes": []
+        },
+        "organic": {
+          "raw": "全纲轮转7：旧错反应10；机理/合成2；条件默写",
+          "tasks": [
+            {
+              "id": "2026-11-15-organic-1",
+              "text": "全纲轮转7：旧错反应10"
+            },
+            {
+              "id": "2026-11-15-organic-2",
+              "text": "机理/合成2"
+            },
+            {
+              "id": "2026-11-15-organic-3",
+              "text": "条件默写"
+            }
+          ],
+          "notes": []
+        },
+        "english": {
+          "raw": "词汇20分钟；2021年复测：错题/猜对题重做；阅读定位与关键句",
+          "tasks": [
+            {
+              "id": "2026-11-15-english-1",
+              "text": "词汇20分钟"
+            },
+            {
+              "id": "2026-11-15-english-2",
+              "text": "2021年复测：错题/猜对题重做"
+            },
+            {
+              "id": "2026-11-15-english-3",
+              "text": "阅读定位与关键句"
+            }
+          ],
+          "notes": []
+        },
+        "politics": {
+          "raw": "肖八（未到用旧错）客观1套；圈错因；主观框架1题",
+          "tasks": [
+            {
+              "id": "2026-11-15-politics-1",
+              "text": "肖八（未到用旧错）客观1套"
+            },
+            {
+              "id": "2026-11-15-politics-2",
+              "text": "圈错因"
+            },
+            {
+              "id": "2026-11-15-politics-3",
+              "text": "主观框架1题"
+            }
+          ],
+          "notes": []
+        }
+      },
+      "tracking": {
+        "subjectStatus": {
+          "pharm": null,
+          "analysis": null,
+          "organic": null,
+          "english": null,
+          "politics": null
+        },
+        "actualHours": null,
+        "note": null
+      },
+      "events": []
+    },
+    {
+      "date": "2026-11-16",
+      "day": 26,
+      "phaseId": "phase-2",
+      "phase": "二轮复测",
+      "plannedHours": 10,
+      "subjects": {
+        "pharm": {
+          "raw": "全纲轮转8：闭卷提纲3；旧错15题；药物比较2组",
+          "tasks": [
+            {
+              "id": "2026-11-16-pharm-1",
+              "text": "全纲轮转8：闭卷提纲3"
+            },
+            {
+              "id": "2026-11-16-pharm-2",
+              "text": "旧错15题"
+            },
+            {
+              "id": "2026-11-16-pharm-3",
+              "text": "药物比较2组"
+            }
+          ],
+          "notes": []
+        },
+        "analysis": {
+          "raw": "全纲轮转8：公式/条件默写；旧错6；计算/谱图2",
+          "tasks": [
+            {
+              "id": "2026-11-16-analysis-1",
+              "text": "全纲轮转8：公式/条件默写"
+            },
+            {
+              "id": "2026-11-16-analysis-2",
+              "text": "旧错6"
+            },
+            {
+              "id": "2026-11-16-analysis-3",
+              "text": "计算/谱图2"
+            }
+          ],
+          "notes": []
+        },
+        "organic": {
+          "raw": "全纲轮转8：旧错反应10；机理/合成2；条件默写",
+          "tasks": [
+            {
+              "id": "2026-11-16-organic-1",
+              "text": "全纲轮转8：旧错反应10"
+            },
+            {
+              "id": "2026-11-16-organic-2",
+              "text": "机理/合成2"
+            },
+            {
+              "id": "2026-11-16-organic-3",
+              "text": "条件默写"
+            }
+          ],
+          "notes": []
+        },
+        "english": {
+          "raw": "词汇20分钟；2021年复测：非阅读错题重做；作文改写1篇",
+          "tasks": [
+            {
+              "id": "2026-11-16-english-1",
+              "text": "词汇20分钟"
+            },
+            {
+              "id": "2026-11-16-english-2",
+              "text": "2021年复测：非阅读错题重做"
+            },
+            {
+              "id": "2026-11-16-english-3",
+              "text": "作文改写1篇"
+            }
+          ],
+          "notes": []
+        },
+        "politics": {
+          "raw": "肖八/旧卷客观错题15道；回查手册；主观框架1题",
+          "tasks": [
+            {
+              "id": "2026-11-16-politics-1",
+              "text": "肖八/旧卷客观错题15道"
+            },
+            {
+              "id": "2026-11-16-politics-2",
+              "text": "回查手册"
+            },
+            {
+              "id": "2026-11-16-politics-3",
+              "text": "主观框架1题"
+            }
+          ],
+          "notes": []
+        }
+      },
+      "tracking": {
+        "subjectStatus": {
+          "pharm": null,
+          "analysis": null,
+          "organic": null,
+          "english": null,
+          "politics": null
+        },
+        "actualHours": null,
+        "note": null
+      },
+      "events": []
+    },
+    {
+      "date": "2026-11-17",
+      "day": 27,
+      "phaseId": "phase-2",
+      "phase": "二轮复测",
+      "plannedHours": 10,
+      "subjects": {
+        "pharm": {
+          "raw": "全纲轮转9：闭卷提纲3；旧错15题；药物比较2组",
+          "tasks": [
+            {
+              "id": "2026-11-17-pharm-1",
+              "text": "全纲轮转9：闭卷提纲3"
+            },
+            {
+              "id": "2026-11-17-pharm-2",
+              "text": "旧错15题"
+            },
+            {
+              "id": "2026-11-17-pharm-3",
+              "text": "药物比较2组"
+            }
+          ],
+          "notes": []
+        },
+        "analysis": {
+          "raw": "全纲轮转9：公式/条件默写；旧错6；计算/谱图2",
+          "tasks": [
+            {
+              "id": "2026-11-17-analysis-1",
+              "text": "全纲轮转9：公式/条件默写"
+            },
+            {
+              "id": "2026-11-17-analysis-2",
+              "text": "旧错6"
+            },
+            {
+              "id": "2026-11-17-analysis-3",
+              "text": "计算/谱图2"
+            }
+          ],
+          "notes": []
+        },
+        "organic": {
+          "raw": "全纲轮转9：旧错反应10；机理/合成2；条件默写",
+          "tasks": [
+            {
+              "id": "2026-11-17-organic-1",
+              "text": "全纲轮转9：旧错反应10"
+            },
+            {
+              "id": "2026-11-17-organic-2",
+              "text": "机理/合成2"
+            },
+            {
+              "id": "2026-11-17-organic-3",
+              "text": "条件默写"
+            }
+          ],
+          "notes": []
+        },
+        "english": {
+          "raw": "词汇20分钟；2022年复测：错题/猜对题重做；阅读定位与关键句",
+          "tasks": [
+            {
+              "id": "2026-11-17-english-1",
+              "text": "词汇20分钟"
+            },
+            {
+              "id": "2026-11-17-english-2",
+              "text": "2022年复测：错题/猜对题重做"
+            },
+            {
+              "id": "2026-11-17-english-3",
+              "text": "阅读定位与关键句"
+            }
+          ],
+          "notes": []
+        },
+        "politics": {
+          "raw": "肖八（未到用旧错）客观1套；圈错因；主观框架1题",
+          "tasks": [
+            {
+              "id": "2026-11-17-politics-1",
+              "text": "肖八（未到用旧错）客观1套"
+            },
+            {
+              "id": "2026-11-17-politics-2",
+              "text": "圈错因"
+            },
+            {
+              "id": "2026-11-17-politics-3",
+              "text": "主观框架1题"
+            }
+          ],
+          "notes": []
+        }
+      },
+      "tracking": {
+        "subjectStatus": {
+          "pharm": null,
+          "analysis": null,
+          "organic": null,
+          "english": null,
+          "politics": null
+        },
+        "actualHours": null,
+        "note": null
+      },
+      "events": []
+    },
+    {
+      "date": "2026-11-18",
+      "day": 28,
+      "phaseId": "phase-2",
+      "phase": "二轮复测",
+      "plannedHours": 10,
+      "subjects": {
+        "pharm": {
+          "raw": "全纲轮转10：闭卷提纲3；旧错15题；药物比较2组；本日从现有任务中替换出合计2小时补漏",
+          "tasks": [
+            {
+              "id": "2026-11-18-pharm-1",
+              "text": "全纲轮转10：闭卷提纲3"
+            },
+            {
+              "id": "2026-11-18-pharm-2",
+              "text": "旧错15题"
+            },
+            {
+              "id": "2026-11-18-pharm-3",
+              "text": "药物比较2组"
+            }
+          ],
+          "notes": [
+            "本日从现有任务中替换出合计2小时补漏"
+          ]
+        },
+        "analysis": {
+          "raw": "全纲轮转10：公式/条件默写；旧错6；计算/谱图2",
+          "tasks": [
+            {
+              "id": "2026-11-18-analysis-1",
+              "text": "全纲轮转10：公式/条件默写"
+            },
+            {
+              "id": "2026-11-18-analysis-2",
+              "text": "旧错6"
+            },
+            {
+              "id": "2026-11-18-analysis-3",
+              "text": "计算/谱图2"
+            }
+          ],
+          "notes": []
+        },
+        "organic": {
+          "raw": "全纲轮转10：旧错反应10；机理/合成2；条件默写",
+          "tasks": [
+            {
+              "id": "2026-11-18-organic-1",
+              "text": "全纲轮转10：旧错反应10"
+            },
+            {
+              "id": "2026-11-18-organic-2",
+              "text": "机理/合成2"
+            },
+            {
+              "id": "2026-11-18-organic-3",
+              "text": "条件默写"
+            }
+          ],
+          "notes": []
+        },
+        "english": {
+          "raw": "词汇20分钟；2022年复测：非阅读错题重做；作文改写1篇",
+          "tasks": [
+            {
+              "id": "2026-11-18-english-1",
+              "text": "词汇20分钟"
+            },
+            {
+              "id": "2026-11-18-english-2",
+              "text": "2022年复测：非阅读错题重做"
+            },
+            {
+              "id": "2026-11-18-english-3",
+              "text": "作文改写1篇"
+            }
+          ],
+          "notes": []
+        },
+        "politics": {
+          "raw": "肖八/旧卷客观错题15道；回查手册；主观框架1题",
+          "tasks": [
+            {
+              "id": "2026-11-18-politics-1",
+              "text": "肖八/旧卷客观错题15道"
+            },
+            {
+              "id": "2026-11-18-politics-2",
+              "text": "回查手册"
+            },
+            {
+              "id": "2026-11-18-politics-3",
+              "text": "主观框架1题"
+            }
+          ],
+          "notes": []
+        }
+      },
+      "tracking": {
+        "subjectStatus": {
+          "pharm": null,
+          "analysis": null,
+          "organic": null,
+          "english": null,
+          "politics": null
+        },
+        "actualHours": null,
+        "note": null
+      },
+      "events": [
+        {
+          "type": "catchup",
+          "label": "本周补漏",
+          "durationMinutes": 120,
+          "replacesNormalTasks": true
+        }
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "day": 29,
+      "phaseId": "phase-2",
+      "phase": "二轮复测",
+      "plannedHours": 10,
+      "subjects": {
+        "pharm": {
+          "raw": "全纲轮转11：闭卷提纲3；旧错15题；药物比较2组",
+          "tasks": [
+            {
+              "id": "2026-11-19-pharm-1",
+              "text": "全纲轮转11：闭卷提纲3"
+            },
+            {
+              "id": "2026-11-19-pharm-2",
+              "text": "旧错15题"
+            },
+            {
+              "id": "2026-11-19-pharm-3",
+              "text": "药物比较2组"
+            }
+          ],
+          "notes": []
+        },
+        "analysis": {
+          "raw": "全纲轮转11：公式/条件默写；旧错6；计算/谱图2",
+          "tasks": [
+            {
+              "id": "2026-11-19-analysis-1",
+              "text": "全纲轮转11：公式/条件默写"
+            },
+            {
+              "id": "2026-11-19-analysis-2",
+              "text": "旧错6"
+            },
+            {
+              "id": "2026-11-19-analysis-3",
+              "text": "计算/谱图2"
+            }
+          ],
+          "notes": []
+        },
+        "organic": {
+          "raw": "全纲轮转11：旧错反应10；机理/合成2；条件默写",
+          "tasks": [
+            {
+              "id": "2026-11-19-organic-1",
+              "text": "全纲轮转11：旧错反应10"
+            },
+            {
+              "id": "2026-11-19-organic-2",
+              "text": "机理/合成2"
+            },
+            {
+              "id": "2026-11-19-organic-3",
+              "text": "条件默写"
+            }
+          ],
+          "notes": []
+        },
+        "english": {
+          "raw": "词汇20分钟；2023年复测：错题/猜对题重做；阅读定位与关键句",
+          "tasks": [
+            {
+              "id": "2026-11-19-english-1",
+              "text": "词汇20分钟"
+            },
+            {
+              "id": "2026-11-19-english-2",
+              "text": "2023年复测：错题/猜对题重做"
+            },
+            {
+              "id": "2026-11-19-english-3",
+              "text": "阅读定位与关键句"
+            }
+          ],
+          "notes": []
+        },
+        "politics": {
+          "raw": "肖八（未到用旧错）客观1套；圈错因；主观框架1题",
+          "tasks": [
+            {
+              "id": "2026-11-19-politics-1",
+              "text": "肖八（未到用旧错）客观1套"
+            },
+            {
+              "id": "2026-11-19-politics-2",
+              "text": "圈错因"
+            },
+            {
+              "id": "2026-11-19-politics-3",
+              "text": "主观框架1题"
+            }
+          ],
+          "notes": []
+        }
+      },
+      "tracking": {
+        "subjectStatus": {
+          "pharm": null,
+          "analysis": null,
+          "organic": null,
+          "english": null,
+          "politics": null
+        },
+        "actualHours": null,
+        "note": null
+      },
+      "events": []
+    },
+    {
+      "date": "2026-11-20",
+      "day": 30,
+      "phaseId": "phase-2",
+      "phase": "二轮复测",
+      "plannedHours": 10,
+      "subjects": {
+        "pharm": {
+          "raw": "全纲轮转12：闭卷提纲3；旧错15题；药物比较2组",
+          "tasks": [
+            {
+              "id": "2026-11-20-pharm-1",
+              "text": "全纲轮转12：闭卷提纲3"
+            },
+            {
+              "id": "2026-11-20-pharm-2",
+              "text": "旧错15题"
+            },
+            {
+              "id": "2026-11-20-pharm-3",
+              "text": "药物比较2组"
+            }
+          ],
+          "notes": []
+        },
+        "analysis": {
+          "raw": "全纲轮转12：公式/条件默写；旧错6；计算/谱图2",
+          "tasks": [
+            {
+              "id": "2026-11-20-analysis-1",
+              "text": "全纲轮转12：公式/条件默写"
+            },
+            {
+              "id": "2026-11-20-analysis-2",
+              "text": "旧错6"
+            },
+            {
+              "id": "2026-11-20-analysis-3",
+              "text": "计算/谱图2"
+            }
+          ],
+          "notes": []
+        },
+        "organic": {
+          "raw": "全纲轮转12：旧错反应10；机理/合成2；条件默写",
+          "tasks": [
+            {
+              "id": "2026-11-20-organic-1",
+              "text": "全纲轮转12：旧错反应10"
+            },
+            {
+              "id": "2026-11-20-organic-2",
+              "text": "机理/合成2"
+            },
+            {
+              "id": "2026-11-20-organic-3",
+              "text": "条件默写"
+            }
+          ],
+          "notes": []
+        },
+        "english": {
+          "raw": "词汇20分钟；2023年复测：非阅读错题重做；作文改写1篇",
+          "tasks": [
+            {
+              "id": "2026-11-20-english-1",
+              "text": "词汇20分钟"
+            },
+            {
+              "id": "2026-11-20-english-2",
+              "text": "2023年复测：非阅读错题重做"
+            },
+            {
+              "id": "2026-11-20-english-3",
+              "text": "作文改写1篇"
+            }
+          ],
+          "notes": []
+        },
+        "politics": {
+          "raw": "肖八/旧卷客观错题15道；回查手册；主观框架1题",
+          "tasks": [
+            {
+              "id": "2026-11-20-politics-1",
+              "text": "肖八/旧卷客观错题15道"
+            },
+            {
+              "id": "2026-11-20-politics-2",
+              "text": "回查手册"
+            },
+            {
+              "id": "2026-11-20-politics-3",
+              "text": "主观框架1题"
+            }
+          ],
+          "notes": []
+        }
+      },
+      "tracking": {
+        "subjectStatus": {
+          "pharm": null,
+          "analysis": null,
+          "organic": null,
+          "english": null,
+          "politics": null
+        },
+        "actualHours": null,
+        "note": null
+      },
+      "events": []
+    },
+    {
+      "date": "2026-11-21",
+      "day": 31,
+      "phaseId": "phase-2",
+      "phase": "二轮复测",
+      "plannedHours": 10,
+      "subjects": {
+        "pharm": {
+          "raw": "全纲轮转13：闭卷提纲3；旧错15题；药物比较2组",
+          "tasks": [
+            {
+              "id": "2026-11-21-pharm-1",
+              "text": "全纲轮转13：闭卷提纲3"
+            },
+            {
+              "id": "2026-11-21-pharm-2",
+              "text": "旧错15题"
+            },
+            {
+              "id": "2026-11-21-pharm-3",
+              "text": "药物比较2组"
+            }
+          ],
+          "notes": []
+        },
+        "analysis": {
+          "raw": "全纲轮转13：公式/条件默写；旧错6；计算/谱图2",
+          "tasks": [
+            {
+              "id": "2026-11-21-analysis-1",
+              "text": "全纲轮转13：公式/条件默写"
+            },
+            {
+              "id": "2026-11-21-analysis-2",
+              "text": "旧错6"
+            },
+            {
+              "id": "2026-11-21-analysis-3",
+              "text": "计算/谱图2"
+            }
+          ],
+          "notes": []
+        },
+        "organic": {
+          "raw": "全纲轮转13：旧错反应10；机理/合成2；条件默写",
+          "tasks": [
+            {
+              "id": "2026-11-21-organic-1",
+              "text": "全纲轮转13：旧错反应10"
+            },
+            {
+              "id": "2026-11-21-organic-2",
+              "text": "机理/合成2"
+            },
+            {
+              "id": "2026-11-21-organic-3",
+              "text": "条件默写"
+            }
+          ],
+          "notes": []
+        },
+        "english": {
+          "raw": "词汇20分钟；最弱题型1组；错题复测；完整作文1篇",
+          "tasks": [
+            {
+              "id": "2026-11-21-english-1",
+              "text": "词汇20分钟"
+            },
+            {
+              "id": "2026-11-21-english-2",
+              "text": "最弱题型1组"
+            },
+            {
+              "id": "2026-11-21-english-3",
+              "text": "错题复测"
+            },
+            {
+              "id": "2026-11-21-english-4",
+              "text": "完整作文1篇"
+            }
+          ],
+          "notes": []
+        },
+        "politics": {
+          "raw": "肖八（未到用旧错）客观1套；圈错因；主观框架1题",
+          "tasks": [
+            {
+              "id": "2026-11-21-politics-1",
+              "text": "肖八（未到用旧错）客观1套"
+            },
+            {
+              "id": "2026-11-21-politics-2",
+              "text": "圈错因"
+            },
+            {
+              "id": "2026-11-21-politics-3",
+              "text": "主观框架1题"
+            }
+          ],
+          "notes": []
+        }
+      },
+      "tracking": {
+        "subjectStatus": {
+          "pharm": null,
+          "analysis": null,
+          "organic": null,
+          "english": null,
+          "politics": null
+        },
+        "actualHours": null,
+        "note": null
+      },
+      "events": []
+    },
+    {
+      "date": "2026-11-22",
+      "day": 32,
+      "phaseId": "phase-2",
+      "phase": "二轮复测",
+      "plannedHours": 10,
+      "subjects": {
+        "pharm": {
+          "raw": "全纲轮转14：闭卷提纲3；旧错15题；药物比较2组",
+          "tasks": [
+            {
+              "id": "2026-11-22-pharm-1",
+              "text": "全纲轮转14：闭卷提纲3"
+            },
+            {
+              "id": "2026-11-22-pharm-2",
+              "text": "旧错15题"
+            },
+            {
+              "id": "2026-11-22-pharm-3",
+              "text": "药物比较2组"
+            }
+          ],
+          "notes": []
+        },
+        "analysis": {
+          "raw": "全纲轮转14：公式/条件默写；旧错6；计算/谱图2",
+          "tasks": [
+            {
+              "id": "2026-11-22-analysis-1",
+              "text": "全纲轮转14：公式/条件默写"
+            },
+            {
+              "id": "2026-11-22-analysis-2",
+              "text": "旧错6"
+            },
+            {
+              "id": "2026-11-22-analysis-3",
+              "text": "计算/谱图2"
+            }
+          ],
+          "notes": []
+        },
+        "organic": {
+          "raw": "全纲轮转14：旧错反应10；机理/合成2；条件默写",
+          "tasks": [
+            {
+              "id": "2026-11-22-organic-1",
+              "text": "全纲轮转14：旧错反应10"
+            },
+            {
+              "id": "2026-11-22-organic-2",
+              "text": "机理/合成2"
+            },
+            {
+              "id": "2026-11-22-organic-3",
+              "text": "条件默写"
+            }
+          ],
+          "notes": []
+        },
+        "english": {
+          "raw": "词汇20分钟；最弱题型1组；错题复测；完整作文1篇",
+          "tasks": [
+            {
+              "id": "2026-11-22-english-1",
+              "text": "词汇20分钟"
+            },
+            {
+              "id": "2026-11-22-english-2",
+              "text": "最弱题型1组"
+            },
+            {
+              "id": "2026-11-22-english-3",
+              "text": "错题复测"
+            },
+            {
+              "id": "2026-11-22-english-4",
+              "text": "完整作文1篇"
+            }
+          ],
+          "notes": []
+        },
+        "politics": {
+          "raw": "肖八/旧卷客观错题15道；回查手册；主观框架1题",
+          "tasks": [
+            {
+              "id": "2026-11-22-politics-1",
+              "text": "肖八/旧卷客观错题15道"
+            },
+            {
+              "id": "2026-11-22-politics-2",
+              "text": "回查手册"
+            },
+            {
+              "id": "2026-11-22-politics-3",
+              "text": "主观框架1题"
+            }
+          ],
+          "notes": []
+        }
+      },
+      "tracking": {
+        "subjectStatus": {
+          "pharm": null,
+          "analysis": null,
+          "organic": null,
+          "english": null,
+          "politics": null
+        },
+        "actualHours": null,
+        "note": null
+      },
+      "events": []
+    },
+    {
+      "date": "2026-11-23",
+      "day": 33,
+      "phaseId": "phase-3",
+      "phase": "混合限时",
+      "plannedHours": 10,
+      "subjects": {
+        "pharm": {
+          "raw": "药理混合限时40分钟；简答3；错题8",
+          "tasks": [
+            {
+              "id": "2026-11-23-pharm-1",
+              "text": "药理混合限时40分钟"
+            },
+            {
+              "id": "2026-11-23-pharm-2",
+              "text": "简答3"
+            },
+            {
+              "id": "2026-11-23-pharm-3",
+              "text": "错题8"
+            }
+          ],
+          "notes": []
+        },
+        "analysis": {
+          "raw": "分析混合限时45分钟；计算/谱图2；错题4",
+          "tasks": [
+            {
+              "id": "2026-11-23-analysis-1",
+              "text": "分析混合限时45分钟"
+            },
+            {
+              "id": "2026-11-23-analysis-2",
+              "text": "计算/谱图2"
+            },
+            {
+              "id": "2026-11-23-analysis-3",
+              "text": "错题4"
+            }
+          ],
+          "notes": []
+        },
+        "organic": {
+          "raw": "有机混合限时45分钟；反应10；机理/合成1",
+          "tasks": [
+            {
+              "id": "2026-11-23-organic-1",
+              "text": "有机混合限时45分钟"
+            },
+            {
+              "id": "2026-11-23-organic-2",
+              "text": "反应10"
+            },
+            {
+              "id": "2026-11-23-organic-3",
+              "text": "机理/合成1"
+            }
+          ],
+          "notes": []
+        },
+        "english": {
+          "raw": "词汇20分钟；最弱题型1组；旧错回测；作文修改1篇",
+          "tasks": [
+            {
+              "id": "2026-11-23-english-1",
+              "text": "词汇20分钟"
+            },
+            {
+              "id": "2026-11-23-english-2",
+              "text": "最弱题型1组"
+            },
+            {
+              "id": "2026-11-23-english-3",
+              "text": "旧错回测"
+            },
+            {
+              "id": "2026-11-23-english-4",
+              "text": "作文修改1篇"
+            }
+          ],
+          "notes": []
+        },
+        "politics": {
+          "raw": "肖八（未到用旧错）客观1套；圈错因；主观框架1题",
+          "tasks": [
+            {
+              "id": "2026-11-23-politics-1",
+              "text": "肖八（未到用旧错）客观1套"
+            },
+            {
+              "id": "2026-11-23-politics-2",
+              "text": "圈错因"
+            },
+            {
+              "id": "2026-11-23-politics-3",
+              "text": "主观框架1题"
+            }
+          ],
+          "notes": []
+        }
+      },
+      "tracking": {
+        "subjectStatus": {
+          "pharm": null,
+          "analysis": null,
+          "organic": null,
+          "english": null,
+          "politics": null
+        },
+        "actualHours": null,
+        "note": null
+      },
+      "events": []
+    },
+    {
+      "date": "2026-11-24",
+      "day": 34,
+      "phaseId": "phase-3",
+      "phase": "混合限时",
+      "plannedHours": 10,
+      "subjects": {
+        "pharm": {
+          "raw": "药理混合限时40分钟；简答3；错题8",
+          "tasks": [
+            {
+              "id": "2026-11-24-pharm-1",
+              "text": "药理混合限时40分钟"
+            },
+            {
+              "id": "2026-11-24-pharm-2",
+              "text": "简答3"
+            },
+            {
+              "id": "2026-11-24-pharm-3",
+              "text": "错题8"
+            }
+          ],
+          "notes": []
+        },
+        "analysis": {
+          "raw": "分析混合限时45分钟；计算/谱图2；错题4",
+          "tasks": [
+            {
+              "id": "2026-11-24-analysis-1",
+              "text": "分析混合限时45分钟"
+            },
+            {
+              "id": "2026-11-24-analysis-2",
+              "text": "计算/谱图2"
+            },
+            {
+              "id": "2026-11-24-analysis-3",
+              "text": "错题4"
+            }
+          ],
+          "notes": []
+        },
+        "organic": {
+          "raw": "有机混合限时45分钟；反应10；机理/合成1",
+          "tasks": [
+            {
+              "id": "2026-11-24-organic-1",
+              "text": "有机混合限时45分钟"
+            },
+            {
+              "id": "2026-11-24-organic-2",
+              "text": "反应10"
+            },
+            {
+              "id": "2026-11-24-organic-3",
+              "text": "机理/合成1"
+            }
+          ],
+          "notes": []
+        },
+        "english": {
+          "raw": "词汇20分钟；旧题阅读2篇限时；逐项解释错因；小作文1篇",
+          "tasks": [
+            {
+              "id": "2026-11-24-english-1",
+              "text": "词汇20分钟"
+            },
+            {
+              "id": "2026-11-24-english-2",
+              "text": "旧题阅读2篇限时"
+            },
+            {
+              "id": "2026-11-24-english-3",
+              "text": "逐项解释错因"
+            },
+            {
+              "id": "2026-11-24-english-4",
+              "text": "小作文1篇"
+            }
+          ],
+          "notes": []
+        },
+        "politics": {
+          "raw": "肖八/旧卷客观错题15道；回查手册；主观框架1题",
+          "tasks": [
+            {
+              "id": "2026-11-24-politics-1",
+              "text": "肖八/旧卷客观错题15道"
+            },
+            {
+              "id": "2026-11-24-politics-2",
+              "text": "回查手册"
+            },
+            {
+              "id": "2026-11-24-politics-3",
+              "text": "主观框架1题"
+            }
+          ],
+          "notes": []
+        }
+      },
+      "tracking": {
+        "subjectStatus": {
+          "pharm": null,
+          "analysis": null,
+          "organic": null,
+          "english": null,
+          "politics": null
+        },
+        "actualHours": null,
+        "note": null
+      },
+      "events": []
+    },
+    {
+      "date": "2026-11-25",
+      "day": 35,
+      "phaseId": "phase-3",
+      "phase": "混合限时",
+      "plannedHours": 10,
+      "subjects": {
+        "pharm": {
+          "raw": "药理混合限时40分钟；简答3；错题8；本日从现有任务中替换出合计2小时补漏",
+          "tasks": [
+            {
+              "id": "2026-11-25-pharm-1",
+              "text": "药理混合限时40分钟"
+            },
+            {
+              "id": "2026-11-25-pharm-2",
+              "text": "简答3"
+            },
+            {
+              "id": "2026-11-25-pharm-3",
+              "text": "错题8"
+            }
+          ],
+          "notes": [
+            "本日从现有任务中替换出合计2小时补漏"
+          ]
+        },
+        "analysis": {
+          "raw": "分析混合限时45分钟；计算/谱图2；错题4",
+          "tasks": [
+            {
+              "id": "2026-11-25-analysis-1",
+              "text": "分析混合限时45分钟"
+            },
+            {
+              "id": "2026-11-25-analysis-2",
+              "text": "计算/谱图2"
+            },
+            {
+              "id": "2026-11-25-analysis-3",
+              "text": "错题4"
+            }
+          ],
+          "notes": []
+        },
+        "organic": {
+          "raw": "有机混合限时45分钟；反应10；机理/合成1",
+          "tasks": [
+            {
+              "id": "2026-11-25-organic-1",
+              "text": "有机混合限时45分钟"
+            },
+            {
+              "id": "2026-11-25-organic-2",
+              "text": "反应10"
+            },
+            {
+              "id": "2026-11-25-organic-3",
+              "text": "机理/合成1"
+            }
+          ],
+          "notes": []
+        },
+        "english": {
+          "raw": "词汇20分钟；完形/新题型/翻译1组；订正；大作文1篇",
+          "tasks": [
+            {
+              "id": "2026-11-25-english-1",
+              "text": "词汇20分钟"
+            },
+            {
+              "id": "2026-11-25-english-2",
+              "text": "完形/新题型/翻译1组"
+            },
+            {
+              "id": "2026-11-25-english-3",
+              "text": "订正"
+            },
+            {
+              "id": "2026-11-25-english-4",
+              "text": "大作文1篇"
+            }
+          ],
+          "notes": []
+        },
+        "politics": {
+          "raw": "肖八（未到用旧错）客观1套；圈错因；主观框架1题",
+          "tasks": [
+            {
+              "id": "2026-11-25-politics-1",
+              "text": "肖八（未到用旧错）客观1套"
+            },
+            {
+              "id": "2026-11-25-politics-2",
+              "text": "圈错因"
+            },
+            {
+              "id": "2026-11-25-politics-3",
+              "text": "主观框架1题"
+            }
+          ],
+          "notes": []
+        }
+      },
+      "tracking": {
+        "subjectStatus": {
+          "pharm": null,
+          "analysis": null,
+          "organic": null,
+          "english": null,
+          "politics": null
+        },
+        "actualHours": null,
+        "note": null
+      },
+      "events": [
+        {
+          "type": "catchup",
+          "label": "本周补漏",
+          "durationMinutes": 120,
+          "replacesNormalTasks": true
+        }
+      ]
+    },
+    {
+      "date": "2026-11-26",
+      "day": 36,
+      "phaseId": "phase-3",
+      "phase": "混合限时",
+      "plannedHours": 10,
+      "subjects": {
+        "pharm": {
+          "raw": "药理混合限时40分钟；简答3；错题8",
+          "tasks": [
+            {
+              "id": "2026-11-26-pharm-1",
+              "text": "药理混合限时40分钟"
+            },
+            {
+              "id": "2026-11-26-pharm-2",
+              "text": "简答3"
+            },
+            {
+              "id": "2026-11-26-pharm-3",
+              "text": "错题8"
+            }
+          ],
+          "notes": []
+        },
+        "analysis": {
+          "raw": "分析混合限时45分钟；计算/谱图2；错题4",
+          "tasks": [
+            {
+              "id": "2026-11-26-analysis-1",
+              "text": "分析混合限时45分钟"
+            },
+            {
+              "id": "2026-11-26-analysis-2",
+              "text": "计算/谱图2"
+            },
+            {
+              "id": "2026-11-26-analysis-3",
+              "text": "错题4"
+            }
+          ],
+          "notes": []
+        },
+        "organic": {
+          "raw": "有机混合限时45分钟；反应10；机理/合成1",
+          "tasks": [
+            {
+              "id": "2026-11-26-organic-1",
+              "text": "有机混合限时45分钟"
+            },
+            {
+              "id": "2026-11-26-organic-2",
+              "text": "反应10"
+            },
+            {
+              "id": "2026-11-26-organic-3",
+              "text": "机理/合成1"
+            }
+          ],
+          "notes": []
+        },
+        "english": {
+          "raw": "词汇20分钟；最弱题型1组；旧错回测；作文修改1篇",
+          "tasks": [
+            {
+              "id": "2026-11-26-english-1",
+              "text": "词汇20分钟"
+            },
+            {
+              "id": "2026-11-26-english-2",
+              "text": "最弱题型1组"
+            },
+            {
+              "id": "2026-11-26-english-3",
+              "text": "旧错回测"
+            },
+            {
+              "id": "2026-11-26-english-4",
+              "text": "作文修改1篇"
+            }
+          ],
+          "notes": []
+        },
+        "politics": {
+          "raw": "肖八/旧卷客观错题15道；回查手册；主观框架1题",
+          "tasks": [
+            {
+              "id": "2026-11-26-politics-1",
+              "text": "肖八/旧卷客观错题15道"
+            },
+            {
+              "id": "2026-11-26-politics-2",
+              "text": "回查手册"
+            },
+            {
+              "id": "2026-11-26-politics-3",
+              "text": "主观框架1题"
+            }
+          ],
+          "notes": []
+        }
+      },
+      "tracking": {
+        "subjectStatus": {
+          "pharm": null,
+          "analysis": null,
+          "organic": null,
+          "english": null,
+          "politics": null
+        },
+        "actualHours": null,
+        "note": null
+      },
+      "events": []
+    },
+    {
+      "date": "2026-11-27",
+      "day": 37,
+      "phaseId": "phase-3",
+      "phase": "混合限时",
+      "plannedHours": 10,
+      "subjects": {
+        "pharm": {
+          "raw": "药理混合限时40分钟；简答3；错题8",
+          "tasks": [
+            {
+              "id": "2026-11-27-pharm-1",
+              "text": "药理混合限时40分钟"
+            },
+            {
+              "id": "2026-11-27-pharm-2",
+              "text": "简答3"
+            },
+            {
+              "id": "2026-11-27-pharm-3",
+              "text": "错题8"
+            }
+          ],
+          "notes": []
+        },
+        "analysis": {
+          "raw": "分析混合限时45分钟；计算/谱图2；错题4",
+          "tasks": [
+            {
+              "id": "2026-11-27-analysis-1",
+              "text": "分析混合限时45分钟"
+            },
+            {
+              "id": "2026-11-27-analysis-2",
+              "text": "计算/谱图2"
+            },
+            {
+              "id": "2026-11-27-analysis-3",
+              "text": "错题4"
+            }
+          ],
+          "notes": []
+        },
+        "organic": {
+          "raw": "有机混合限时45分钟；反应10；机理/合成1",
+          "tasks": [
+            {
+              "id": "2026-11-27-organic-1",
+              "text": "有机混合限时45分钟"
+            },
+            {
+              "id": "2026-11-27-organic-2",
+              "text": "反应10"
+            },
+            {
+              "id": "2026-11-27-organic-3",
+              "text": "机理/合成1"
+            }
+          ],
+          "notes": []
+        },
+        "english": {
+          "raw": "词汇20分钟；旧题阅读2篇限时；逐项解释错因；小作文1篇",
+          "tasks": [
+            {
+              "id": "2026-11-27-english-1",
+              "text": "词汇20分钟"
+            },
+            {
+              "id": "2026-11-27-english-2",
+              "text": "旧题阅读2篇限时"
+            },
+            {
+              "id": "2026-11-27-english-3",
+              "text": "逐项解释错因"
+            },
+            {
+              "id": "2026-11-27-english-4",
+              "text": "小作文1篇"
+            }
+          ],
+          "notes": []
+        },
+        "politics": {
+          "raw": "肖八（未到用旧错）客观1套；圈错因；主观框架1题",
+          "tasks": [
+            {
+              "id": "2026-11-27-politics-1",
+              "text": "肖八（未到用旧错）客观1套"
+            },
+            {
+              "id": "2026-11-27-politics-2",
+              "text": "圈错因"
+            },
+            {
+              "id": "2026-11-27-politics-3",
+              "text": "主观框架1题"
+            }
+          ],
+          "notes": []
+        }
+      },
+      "tracking": {
+        "subjectStatus": {
+          "pharm": null,
+          "analysis": null,
+          "organic": null,
+          "english": null,
+          "politics": null
+        },
+        "actualHours": null,
+        "note": null
+      },
+      "events": []
+    },
+    {
+      "date": "2026-11-28",
+      "day": 38,
+      "phaseId": "phase-3",
+      "phase": "混合限时",
+      "plannedHours": 10,
+      "subjects": {
+        "pharm": {
+          "raw": "三科合卷连续180分钟；当天常规题量取消",
+          "tasks": [
+            {
+              "id": "2026-11-28-pharm-1",
+              "text": "三科合卷连续180分钟"
+            }
+          ],
+          "notes": [
+            "当天常规题量取消"
+          ]
+        },
+        "analysis": {
+          "raw": "合卷后总计150分钟订正；定位分析失分",
+          "tasks": [
+            {
+              "id": "2026-11-28-analysis-1",
+              "text": "合卷后总计150分钟订正"
+            },
+            {
+              "id": "2026-11-28-analysis-2",
+              "text": "定位分析失分"
+            }
+          ],
+          "notes": []
+        },
+        "organic": {
+          "raw": "共用专业课5.5小时；逐题记错因与补漏",
+          "tasks": [
+            {
+              "id": "2026-11-28-organic-1",
+              "text": "逐题记错因与补漏"
+            }
+          ],
+          "notes": [
+            "共用专业课5.5小时"
+          ]
+        },
+        "english": {
+          "raw": "词汇20分钟；完形/新题型/翻译1组；订正；大作文1篇",
+          "tasks": [
+            {
+              "id": "2026-11-28-english-1",
+              "text": "词汇20分钟"
+            },
+            {
+              "id": "2026-11-28-english-2",
+              "text": "完形/新题型/翻译1组"
+            },
+            {
+              "id": "2026-11-28-english-3",
+              "text": "订正"
+            },
+            {
+              "id": "2026-11-28-english-4",
+              "text": "大作文1篇"
+            }
+          ],
+          "notes": []
+        },
+        "politics": {
+          "raw": "肖八/旧卷客观错题15道；回查手册；主观框架1题",
+          "tasks": [
+            {
+              "id": "2026-11-28-politics-1",
+              "text": "肖八/旧卷客观错题15道"
+            },
+            {
+              "id": "2026-11-28-politics-2",
+              "text": "回查手册"
+            },
+            {
+              "id": "2026-11-28-politics-3",
+              "text": "主观框架1题"
+            }
+          ],
+          "notes": []
+        }
+      },
+      "tracking": {
+        "subjectStatus": {
+          "pharm": null,
+          "analysis": null,
+          "organic": null,
+          "english": null,
+          "politics": null
+        },
+        "actualHours": null,
+        "note": null
+      },
+      "events": [
+        {
+          "type": "professional_mock",
+          "label": "专业综合模拟",
+          "durationMinutes": 180,
+          "reviewMinutes": 150,
+          "sharedSubjects": [
+            "pharm",
+            "analysis",
+            "organic"
+          ],
+          "time": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-29",
+      "day": 39,
+      "phaseId": "phase-3",
+      "phase": "混合限时",
+      "plannedHours": 10,
+      "subjects": {
+        "pharm": {
+          "raw": "药理混合限时40分钟；简答3；错题8",
+          "tasks": [
+            {
+              "id": "2026-11-29-pharm-1",
+              "text": "药理混合限时40分钟"
+            },
+            {
+              "id": "2026-11-29-pharm-2",
+              "text": "简答3"
+            },
+            {
+              "id": "2026-11-29-pharm-3",
+              "text": "错题8"
+            }
+          ],
+          "notes": []
+        },
+        "analysis": {
+          "raw": "分析混合限时45分钟；计算/谱图2；错题4",
+          "tasks": [
+            {
+              "id": "2026-11-29-analysis-1",
+              "text": "分析混合限时45分钟"
+            },
+            {
+              "id": "2026-11-29-analysis-2",
+              "text": "计算/谱图2"
+            },
+            {
+              "id": "2026-11-29-analysis-3",
+              "text": "错题4"
+            }
+          ],
+          "notes": []
+        },
+        "organic": {
+          "raw": "有机混合限时45分钟；反应10；机理/合成1",
+          "tasks": [
+            {
+              "id": "2026-11-29-organic-1",
+              "text": "有机混合限时45分钟"
+            },
+            {
+              "id": "2026-11-29-organic-2",
+              "text": "反应10"
+            },
+            {
+              "id": "2026-11-29-organic-3",
+              "text": "机理/合成1"
+            }
+          ],
+          "notes": []
+        },
+        "english": {
+          "raw": "词汇20分钟；最弱题型1组；旧错回测；作文修改1篇",
+          "tasks": [
+            {
+              "id": "2026-11-29-english-1",
+              "text": "词汇20分钟"
+            },
+            {
+              "id": "2026-11-29-english-2",
+              "text": "最弱题型1组"
+            },
+            {
+              "id": "2026-11-29-english-3",
+              "text": "旧错回测"
+            },
+            {
+              "id": "2026-11-29-english-4",
+              "text": "作文修改1篇"
+            }
+          ],
+          "notes": []
+        },
+        "politics": {
+          "raw": "肖八（未到用旧错）客观1套；圈错因；主观框架1题",
+          "tasks": [
+            {
+              "id": "2026-11-29-politics-1",
+              "text": "肖八（未到用旧错）客观1套"
+            },
+            {
+              "id": "2026-11-29-politics-2",
+              "text": "圈错因"
+            },
+            {
+              "id": "2026-11-29-politics-3",
+              "text": "主观框架1题"
+            }
+          ],
+          "notes": []
+        }
+      },
+      "tracking": {
+        "subjectStatus": {
+          "pharm": null,
+          "analysis": null,
+          "organic": null,
+          "english": null,
+          "politics": null
+        },
+        "actualHours": null,
+        "note": null
+      },
+      "events": []
+    },
+    {
+      "date": "2026-11-30",
+      "day": 40,
+      "phaseId": "phase-3",
+      "phase": "混合限时",
+      "plannedHours": 10,
+      "subjects": {
+        "pharm": {
+          "raw": "药理混合限时40分钟；简答3；错题8",
+          "tasks": [
+            {
+              "id": "2026-11-30-pharm-1",
+              "text": "药理混合限时40分钟"
+            },
+            {
+              "id": "2026-11-30-pharm-2",
+              "text": "简答3"
+            },
+            {
+              "id": "2026-11-30-pharm-3",
+              "text": "错题8"
+            }
+          ],
+          "notes": []
+        },
+        "analysis": {
+          "raw": "分析混合限时45分钟；计算/谱图2；错题4",
+          "tasks": [
+            {
+              "id": "2026-11-30-analysis-1",
+              "text": "分析混合限时45分钟"
+            },
+            {
+              "id": "2026-11-30-analysis-2",
+              "text": "计算/谱图2"
+            },
+            {
+              "id": "2026-11-30-analysis-3",
+              "text": "错题4"
+            }
+          ],
+          "notes": []
+        },
+        "organic": {
+          "raw": "有机混合限时45分钟；反应10；机理/合成1",
+          "tasks": [
+            {
+              "id": "2026-11-30-organic-1",
+              "text": "有机混合限时45分钟"
+            },
+            {
+              "id": "2026-11-30-organic-2",
+              "text": "反应10"
+            },
+            {
+              "id": "2026-11-30-organic-3",
+              "text": "机理/合成1"
+            }
+          ],
+          "notes": []
+        },
+        "english": {
+          "raw": "词汇20分钟；旧题阅读2篇限时；逐项解释错因；小作文1篇",
+          "tasks": [
+            {
+              "id": "2026-11-30-english-1",
+              "text": "词汇20分钟"
+            },
+            {
+              "id": "2026-11-30-english-2",
+              "text": "旧题阅读2篇限时"
+            },
+            {
+              "id": "2026-11-30-english-3",
+              "text": "逐项解释错因"
+            },
+            {
+              "id": "2026-11-30-english-4",
+              "text": "小作文1篇"
+            }
+          ],
+          "notes": []
+        },
+        "politics": {
+          "raw": "肖八/旧卷客观错题15道；回查手册；主观框架1题",
+          "tasks": [
+            {
+              "id": "2026-11-30-politics-1",
+              "text": "肖八/旧卷客观错题15道"
+            },
+            {
+              "id": "2026-11-30-politics-2",
+              "text": "回查手册"
+            },
+            {
+              "id": "2026-11-30-politics-3",
+              "text": "主观框架1题"
+            }
+          ],
+          "notes": []
+        }
+      },
+      "tracking": {
+        "subjectStatus": {
+          "pharm": null,
+          "analysis": null,
+          "organic": null,
+          "english": null,
+          "politics": null
+        },
+        "actualHours": null,
+        "note": null
+      },
+      "events": []
+    },
+    {
+      "date": "2026-12-01",
+      "day": 41,
+      "phaseId": "phase-3",
+      "phase": "混合限时",
+      "plannedHours": 10,
+      "subjects": {
+        "pharm": {
+          "raw": "英语整卷日：药理错题10；简答2；三科共4.5小时",
+          "tasks": [
+            {
+              "id": "2026-12-01-pharm-1",
+              "text": "英语整卷日：药理错题10"
+            },
+            {
+              "id": "2026-12-01-pharm-2",
+              "text": "简答2"
+            }
+          ],
+          "notes": [
+            "三科共4.5小时"
+          ]
+        },
+        "analysis": {
+          "raw": "英语整卷日：分析短题4；计算/谱图1；三科共4.5小时",
+          "tasks": [
+            {
+              "id": "2026-12-01-analysis-1",
+              "text": "英语整卷日：分析短题4"
+            },
+            {
+              "id": "2026-12-01-analysis-2",
+              "text": "计算/谱图1"
+            }
+          ],
+          "notes": [
+            "三科共4.5小时"
+          ]
+        },
+        "organic": {
+          "raw": "英语整卷日：反应8；机理/合成1；三科共4.5小时",
+          "tasks": [
+            {
+              "id": "2026-12-01-organic-1",
+              "text": "英语整卷日：反应8"
+            },
+            {
+              "id": "2026-12-01-organic-2",
+              "text": "机理/合成1"
+            }
+          ],
+          "notes": [
+            "三科共4.5小时"
+          ]
+        },
+        "english": {
+          "raw": "2024年整卷180分钟（含写作）；当日英语3小时，专业课调减1小时",
+          "tasks": [
+            {
+              "id": "2026-12-01-english-1",
+              "text": "2024年整卷180分钟（含写作）"
+            }
+          ],
+          "notes": [
+            "当日英语3小时，专业课调减1小时"
+          ]
+        },
+        "politics": {
+          "raw": "客观旧错15道；主观闭卷复述2题、书写1题；肖四到手后替换背诵材料",
+          "tasks": [
+            {
+              "id": "2026-12-01-politics-1",
+              "text": "客观旧错15道"
+            },
+            {
+              "id": "2026-12-01-politics-2",
+              "text": "主观闭卷复述2题、书写1题"
+            }
+          ],
+          "notes": [
+            "肖四到手后替换背诵材料"
+          ]
+        }
+      },
+      "tracking": {
+        "subjectStatus": {
+          "pharm": null,
+          "analysis": null,
+          "organic": null,
+          "english": null,
+          "politics": null
+        },
+        "actualHours": null,
+        "note": null
+      },
+      "events": [
+        {
+          "type": "english_mock",
+          "label": "2024年英语模拟",
+          "paperYear": 2024,
+          "durationMinutes": 180,
+          "time": null
+        }
+      ]
+    },
+    {
+      "date": "2026-12-02",
+      "day": 42,
+      "phaseId": "phase-3",
+      "phase": "混合限时",
+      "plannedHours": 10,
+      "subjects": {
+        "pharm": {
+          "raw": "药理混合限时40分钟；简答3；错题8；本日从现有任务中替换出合计2小时补漏",
+          "tasks": [
+            {
+              "id": "2026-12-02-pharm-1",
+              "text": "药理混合限时40分钟"
+            },
+            {
+              "id": "2026-12-02-pharm-2",
+              "text": "简答3"
+            },
+            {
+              "id": "2026-12-02-pharm-3",
+              "text": "错题8"
+            }
+          ],
+          "notes": [
+            "本日从现有任务中替换出合计2小时补漏"
+          ]
+        },
+        "analysis": {
+          "raw": "分析混合限时45分钟；计算/谱图2；错题4",
+          "tasks": [
+            {
+              "id": "2026-12-02-analysis-1",
+              "text": "分析混合限时45分钟"
+            },
+            {
+              "id": "2026-12-02-analysis-2",
+              "text": "计算/谱图2"
+            },
+            {
+              "id": "2026-12-02-analysis-3",
+              "text": "错题4"
+            }
+          ],
+          "notes": []
+        },
+        "organic": {
+          "raw": "有机混合限时45分钟；反应10；机理/合成1",
+          "tasks": [
+            {
+              "id": "2026-12-02-organic-1",
+              "text": "有机混合限时45分钟"
+            },
+            {
+              "id": "2026-12-02-organic-2",
+              "text": "反应10"
+            },
+            {
+              "id": "2026-12-02-organic-3",
+              "text": "机理/合成1"
+            }
+          ],
+          "notes": []
+        },
+        "english": {
+          "raw": "词汇20分钟；2024年整卷订正；分析错因；修改大小作文",
+          "tasks": [
+            {
+              "id": "2026-12-02-english-1",
+              "text": "词汇20分钟"
+            },
+            {
+              "id": "2026-12-02-english-2",
+              "text": "2024年整卷订正"
+            },
+            {
+              "id": "2026-12-02-english-3",
+              "text": "分析错因"
+            },
+            {
+              "id": "2026-12-02-english-4",
+              "text": "修改大小作文"
+            }
+          ],
+          "notes": []
+        },
+        "politics": {
+          "raw": "客观旧错15道；主观闭卷复述2题、书写1题；肖四到手后替换背诵材料",
+          "tasks": [
+            {
+              "id": "2026-12-02-politics-1",
+              "text": "客观旧错15道"
+            },
+            {
+              "id": "2026-12-02-politics-2",
+              "text": "主观闭卷复述2题、书写1题"
+            }
+          ],
+          "notes": [
+            "肖四到手后替换背诵材料"
+          ]
+        }
+      },
+      "tracking": {
+        "subjectStatus": {
+          "pharm": null,
+          "analysis": null,
+          "organic": null,
+          "english": null,
+          "politics": null
+        },
+        "actualHours": null,
+        "note": null
+      },
+      "events": [
+        {
+          "type": "catchup",
+          "label": "本周补漏",
+          "durationMinutes": 120,
+          "replacesNormalTasks": true
+        }
+      ]
+    },
+    {
+      "date": "2026-12-03",
+      "day": 43,
+      "phaseId": "phase-3",
+      "phase": "混合限时",
+      "plannedHours": 10,
+      "subjects": {
+        "pharm": {
+          "raw": "药理混合限时40分钟；简答3；错题8",
+          "tasks": [
+            {
+              "id": "2026-12-03-pharm-1",
+              "text": "药理混合限时40分钟"
+            },
+            {
+              "id": "2026-12-03-pharm-2",
+              "text": "简答3"
+            },
+            {
+              "id": "2026-12-03-pharm-3",
+              "text": "错题8"
+            }
+          ],
+          "notes": []
+        },
+        "analysis": {
+          "raw": "分析混合限时45分钟；计算/谱图2；错题4",
+          "tasks": [
+            {
+              "id": "2026-12-03-analysis-1",
+              "text": "分析混合限时45分钟"
+            },
+            {
+              "id": "2026-12-03-analysis-2",
+              "text": "计算/谱图2"
+            },
+            {
+              "id": "2026-12-03-analysis-3",
+              "text": "错题4"
+            }
+          ],
+          "notes": []
+        },
+        "organic": {
+          "raw": "有机混合限时45分钟；反应10；机理/合成1",
+          "tasks": [
+            {
+              "id": "2026-12-03-organic-1",
+              "text": "有机混合限时45分钟"
+            },
+            {
+              "id": "2026-12-03-organic-2",
+              "text": "反应10"
+            },
+            {
+              "id": "2026-12-03-organic-3",
+              "text": "机理/合成1"
+            }
+          ],
+          "notes": []
+        },
+        "english": {
+          "raw": "词汇20分钟；旧题阅读2篇限时；逐项解释错因；小作文1篇",
+          "tasks": [
+            {
+              "id": "2026-12-03-english-1",
+              "text": "词汇20分钟"
+            },
+            {
+              "id": "2026-12-03-english-2",
+              "text": "旧题阅读2篇限时"
+            },
+            {
+              "id": "2026-12-03-english-3",
+              "text": "逐项解释错因"
+            },
+            {
+              "id": "2026-12-03-english-4",
+              "text": "小作文1篇"
+            }
+          ],
+          "notes": []
+        },
+        "politics": {
+          "raw": "客观旧错15道；主观闭卷复述2题、书写1题；肖四到手后替换背诵材料",
+          "tasks": [
+            {
+              "id": "2026-12-03-politics-1",
+              "text": "客观旧错15道"
+            },
+            {
+              "id": "2026-12-03-politics-2",
+              "text": "主观闭卷复述2题、书写1题"
+            }
+          ],
+          "notes": [
+            "肖四到手后替换背诵材料"
+          ]
+        }
+      },
+      "tracking": {
+        "subjectStatus": {
+          "pharm": null,
+          "analysis": null,
+          "organic": null,
+          "english": null,
+          "politics": null
+        },
+        "actualHours": null,
+        "note": null
+      },
+      "events": []
+    },
+    {
+      "date": "2026-12-04",
+      "day": 44,
+      "phaseId": "phase-3",
+      "phase": "混合限时",
+      "plannedHours": 10,
+      "subjects": {
+        "pharm": {
+          "raw": "药理混合限时40分钟；简答3；错题8",
+          "tasks": [
+            {
+              "id": "2026-12-04-pharm-1",
+              "text": "药理混合限时40分钟"
+            },
+            {
+              "id": "2026-12-04-pharm-2",
+              "text": "简答3"
+            },
+            {
+              "id": "2026-12-04-pharm-3",
+              "text": "错题8"
+            }
+          ],
+          "notes": []
+        },
+        "analysis": {
+          "raw": "分析混合限时45分钟；计算/谱图2；错题4",
+          "tasks": [
+            {
+              "id": "2026-12-04-analysis-1",
+              "text": "分析混合限时45分钟"
+            },
+            {
+              "id": "2026-12-04-analysis-2",
+              "text": "计算/谱图2"
+            },
+            {
+              "id": "2026-12-04-analysis-3",
+              "text": "错题4"
+            }
+          ],
+          "notes": []
+        },
+        "organic": {
+          "raw": "有机混合限时45分钟；反应10；机理/合成1",
+          "tasks": [
+            {
+              "id": "2026-12-04-organic-1",
+              "text": "有机混合限时45分钟"
+            },
+            {
+              "id": "2026-12-04-organic-2",
+              "text": "反应10"
+            },
+            {
+              "id": "2026-12-04-organic-3",
+              "text": "机理/合成1"
+            }
+          ],
+          "notes": []
+        },
+        "english": {
+          "raw": "词汇20分钟；完形/新题型/翻译1组；订正；大作文1篇",
+          "tasks": [
+            {
+              "id": "2026-12-04-english-1",
+              "text": "词汇20分钟"
+            },
+            {
+              "id": "2026-12-04-english-2",
+              "text": "完形/新题型/翻译1组"
+            },
+            {
+              "id": "2026-12-04-english-3",
+              "text": "订正"
+            },
+            {
+              "id": "2026-12-04-english-4",
+              "text": "大作文1篇"
+            }
+          ],
+          "notes": []
+        },
+        "politics": {
+          "raw": "客观旧错15道；主观闭卷复述2题、书写1题；肖四到手后替换背诵材料",
+          "tasks": [
+            {
+              "id": "2026-12-04-politics-1",
+              "text": "客观旧错15道"
+            },
+            {
+              "id": "2026-12-04-politics-2",
+              "text": "主观闭卷复述2题、书写1题"
+            }
+          ],
+          "notes": [
+            "肖四到手后替换背诵材料"
+          ]
+        }
+      },
+      "tracking": {
+        "subjectStatus": {
+          "pharm": null,
+          "analysis": null,
+          "organic": null,
+          "english": null,
+          "politics": null
+        },
+        "actualHours": null,
+        "note": null
+      },
+      "events": []
+    },
+    {
+      "date": "2026-12-05",
+      "day": 45,
+      "phaseId": "phase-3",
+      "phase": "混合限时",
+      "plannedHours": 10,
+      "subjects": {
+        "pharm": {
+          "raw": "三科合卷连续180分钟；当天常规题量取消",
+          "tasks": [
+            {
+              "id": "2026-12-05-pharm-1",
+              "text": "三科合卷连续180分钟"
+            }
+          ],
+          "notes": [
+            "当天常规题量取消"
+          ]
+        },
+        "analysis": {
+          "raw": "合卷后总计150分钟订正；定位分析失分",
+          "tasks": [
+            {
+              "id": "2026-12-05-analysis-1",
+              "text": "合卷后总计150分钟订正"
+            },
+            {
+              "id": "2026-12-05-analysis-2",
+              "text": "定位分析失分"
+            }
+          ],
+          "notes": []
+        },
+        "organic": {
+          "raw": "共用专业课5.5小时；逐题记错因与补漏",
+          "tasks": [
+            {
+              "id": "2026-12-05-organic-1",
+              "text": "逐题记错因与补漏"
+            }
+          ],
+          "notes": [
+            "共用专业课5.5小时"
+          ]
+        },
+        "english": {
+          "raw": "词汇20分钟；最弱题型1组；旧错回测；作文修改1篇",
+          "tasks": [
+            {
+              "id": "2026-12-05-english-1",
+              "text": "词汇20分钟"
+            },
+            {
+              "id": "2026-12-05-english-2",
+              "text": "最弱题型1组"
+            },
+            {
+              "id": "2026-12-05-english-3",
+              "text": "旧错回测"
+            },
+            {
+              "id": "2026-12-05-english-4",
+              "text": "作文修改1篇"
+            }
+          ],
+          "notes": []
+        },
+        "politics": {
+          "raw": "客观旧错15道；主观闭卷复述2题、书写1题；肖四到手后替换背诵材料",
+          "tasks": [
+            {
+              "id": "2026-12-05-politics-1",
+              "text": "客观旧错15道"
+            },
+            {
+              "id": "2026-12-05-politics-2",
+              "text": "主观闭卷复述2题、书写1题"
+            }
+          ],
+          "notes": [
+            "肖四到手后替换背诵材料"
+          ]
+        }
+      },
+      "tracking": {
+        "subjectStatus": {
+          "pharm": null,
+          "analysis": null,
+          "organic": null,
+          "english": null,
+          "politics": null
+        },
+        "actualHours": null,
+        "note": null
+      },
+      "events": [
+        {
+          "type": "professional_mock",
+          "label": "专业综合模拟",
+          "durationMinutes": 180,
+          "reviewMinutes": 150,
+          "sharedSubjects": [
+            "pharm",
+            "analysis",
+            "organic"
+          ],
+          "time": null
+        }
+      ]
+    },
+    {
+      "date": "2026-12-06",
+      "day": 46,
+      "phaseId": "phase-3",
+      "phase": "混合限时",
+      "plannedHours": 10,
+      "subjects": {
+        "pharm": {
+          "raw": "药理混合限时40分钟；简答3；错题8",
+          "tasks": [
+            {
+              "id": "2026-12-06-pharm-1",
+              "text": "药理混合限时40分钟"
+            },
+            {
+              "id": "2026-12-06-pharm-2",
+              "text": "简答3"
+            },
+            {
+              "id": "2026-12-06-pharm-3",
+              "text": "错题8"
+            }
+          ],
+          "notes": []
+        },
+        "analysis": {
+          "raw": "分析混合限时45分钟；计算/谱图2；错题4",
+          "tasks": [
+            {
+              "id": "2026-12-06-analysis-1",
+              "text": "分析混合限时45分钟"
+            },
+            {
+              "id": "2026-12-06-analysis-2",
+              "text": "计算/谱图2"
+            },
+            {
+              "id": "2026-12-06-analysis-3",
+              "text": "错题4"
+            }
+          ],
+          "notes": []
+        },
+        "organic": {
+          "raw": "有机混合限时45分钟；反应10；机理/合成1",
+          "tasks": [
+            {
+              "id": "2026-12-06-organic-1",
+              "text": "有机混合限时45分钟"
+            },
+            {
+              "id": "2026-12-06-organic-2",
+              "text": "反应10"
+            },
+            {
+              "id": "2026-12-06-organic-3",
+              "text": "机理/合成1"
+            }
+          ],
+          "notes": []
+        },
+        "english": {
+          "raw": "词汇20分钟；旧题阅读2篇限时；逐项解释错因；小作文1篇",
+          "tasks": [
+            {
+              "id": "2026-12-06-english-1",
+              "text": "词汇20分钟"
+            },
+            {
+              "id": "2026-12-06-english-2",
+              "text": "旧题阅读2篇限时"
+            },
+            {
+              "id": "2026-12-06-english-3",
+              "text": "逐项解释错因"
+            },
+            {
+              "id": "2026-12-06-english-4",
+              "text": "小作文1篇"
+            }
+          ],
+          "notes": []
+        },
+        "politics": {
+          "raw": "客观旧错15道；主观闭卷复述2题、书写1题；肖四到手后替换背诵材料",
+          "tasks": [
+            {
+              "id": "2026-12-06-politics-1",
+              "text": "客观旧错15道"
+            },
+            {
+              "id": "2026-12-06-politics-2",
+              "text": "主观闭卷复述2题、书写1题"
+            }
+          ],
+          "notes": [
+            "肖四到手后替换背诵材料"
+          ]
+        }
+      },
+      "tracking": {
+        "subjectStatus": {
+          "pharm": null,
+          "analysis": null,
+          "organic": null,
+          "english": null,
+          "politics": null
+        },
+        "actualHours": null,
+        "note": null
+      },
+      "events": []
+    },
+    {
+      "date": "2026-12-07",
+      "day": 47,
+      "phaseId": "phase-4",
+      "phase": "整卷查漏",
+      "plannedHours": 10,
+      "subjects": {
+        "pharm": {
+          "raw": "英语整卷日：药理错题10；简答2；三科共4.5小时",
+          "tasks": [
+            {
+              "id": "2026-12-07-pharm-1",
+              "text": "英语整卷日：药理错题10"
+            },
+            {
+              "id": "2026-12-07-pharm-2",
+              "text": "简答2"
+            }
+          ],
+          "notes": [
+            "三科共4.5小时"
+          ]
+        },
+        "analysis": {
+          "raw": "英语整卷日：分析短题4；计算/谱图1；三科共4.5小时",
+          "tasks": [
+            {
+              "id": "2026-12-07-analysis-1",
+              "text": "英语整卷日：分析短题4"
+            },
+            {
+              "id": "2026-12-07-analysis-2",
+              "text": "计算/谱图1"
+            }
+          ],
+          "notes": [
+            "三科共4.5小时"
+          ]
+        },
+        "organic": {
+          "raw": "英语整卷日：反应8；机理/合成1；三科共4.5小时",
+          "tasks": [
+            {
+              "id": "2026-12-07-organic-1",
+              "text": "英语整卷日：反应8"
+            },
+            {
+              "id": "2026-12-07-organic-2",
+              "text": "机理/合成1"
+            }
+          ],
+          "notes": [
+            "三科共4.5小时"
+          ]
+        },
+        "english": {
+          "raw": "2025年整卷180分钟（含写作）；当日英语3小时，专业课调减1小时",
+          "tasks": [
+            {
+              "id": "2026-12-07-english-1",
+              "text": "2025年整卷180分钟（含写作）"
+            }
+          ],
+          "notes": [
+            "当日英语3小时，专业课调减1小时"
+          ]
+        },
+        "politics": {
+          "raw": "客观旧错15道；主观闭卷复述2题、书写1题；肖四到手后替换背诵材料",
+          "tasks": [
+            {
+              "id": "2026-12-07-politics-1",
+              "text": "客观旧错15道"
+            },
+            {
+              "id": "2026-12-07-politics-2",
+              "text": "主观闭卷复述2题、书写1题"
+            }
+          ],
+          "notes": [
+            "肖四到手后替换背诵材料"
+          ]
+        }
+      },
+      "tracking": {
+        "subjectStatus": {
+          "pharm": null,
+          "analysis": null,
+          "organic": null,
+          "english": null,
+          "politics": null
+        },
+        "actualHours": null,
+        "note": null
+      },
+      "events": [
+        {
+          "type": "english_mock",
+          "label": "2025年英语模拟",
+          "paperYear": 2025,
+          "durationMinutes": 180,
+          "time": null
+        }
+      ]
+    },
+    {
+      "date": "2026-12-08",
+      "day": 48,
+      "phaseId": "phase-4",
+      "phase": "整卷查漏",
+      "plannedHours": 10,
+      "subjects": {
+        "pharm": {
+          "raw": "药理混合限时40分钟；简答3；错题8",
+          "tasks": [
+            {
+              "id": "2026-12-08-pharm-1",
+              "text": "药理混合限时40分钟"
+            },
+            {
+              "id": "2026-12-08-pharm-2",
+              "text": "简答3"
+            },
+            {
+              "id": "2026-12-08-pharm-3",
+              "text": "错题8"
+            }
+          ],
+          "notes": []
+        },
+        "analysis": {
+          "raw": "分析混合限时45分钟；计算/谱图2；错题4",
+          "tasks": [
+            {
+              "id": "2026-12-08-analysis-1",
+              "text": "分析混合限时45分钟"
+            },
+            {
+              "id": "2026-12-08-analysis-2",
+              "text": "计算/谱图2"
+            },
+            {
+              "id": "2026-12-08-analysis-3",
+              "text": "错题4"
+            }
+          ],
+          "notes": []
+        },
+        "organic": {
+          "raw": "有机混合限时45分钟；反应10；机理/合成1",
+          "tasks": [
+            {
+              "id": "2026-12-08-organic-1",
+              "text": "有机混合限时45分钟"
+            },
+            {
+              "id": "2026-12-08-organic-2",
+              "text": "反应10"
+            },
+            {
+              "id": "2026-12-08-organic-3",
+              "text": "机理/合成1"
+            }
+          ],
+          "notes": []
+        },
+        "english": {
+          "raw": "词汇20分钟；2025年整卷订正；分析错因；修改大小作文",
+          "tasks": [
+            {
+              "id": "2026-12-08-english-1",
+              "text": "词汇20分钟"
+            },
+            {
+              "id": "2026-12-08-english-2",
+              "text": "2025年整卷订正"
+            },
+            {
+              "id": "2026-12-08-english-3",
+              "text": "分析错因"
+            },
+            {
+              "id": "2026-12-08-english-4",
+              "text": "修改大小作文"
+            }
+          ],
+          "notes": []
+        },
+        "politics": {
+          "raw": "客观旧错15道；主观闭卷复述2题、书写1题；肖四到手后替换背诵材料",
+          "tasks": [
+            {
+              "id": "2026-12-08-politics-1",
+              "text": "客观旧错15道"
+            },
+            {
+              "id": "2026-12-08-politics-2",
+              "text": "主观闭卷复述2题、书写1题"
+            }
+          ],
+          "notes": [
+            "肖四到手后替换背诵材料"
+          ]
+        }
+      },
+      "tracking": {
+        "subjectStatus": {
+          "pharm": null,
+          "analysis": null,
+          "organic": null,
+          "english": null,
+          "politics": null
+        },
+        "actualHours": null,
+        "note": null
+      },
+      "events": []
+    },
+    {
+      "date": "2026-12-09",
+      "day": 49,
+      "phaseId": "phase-4",
+      "phase": "整卷查漏",
+      "plannedHours": 10,
+      "subjects": {
+        "pharm": {
+          "raw": "药理混合限时40分钟；简答3；错题8；本日从现有任务中替换出合计2小时补漏",
+          "tasks": [
+            {
+              "id": "2026-12-09-pharm-1",
+              "text": "药理混合限时40分钟"
+            },
+            {
+              "id": "2026-12-09-pharm-2",
+              "text": "简答3"
+            },
+            {
+              "id": "2026-12-09-pharm-3",
+              "text": "错题8"
+            }
+          ],
+          "notes": [
+            "本日从现有任务中替换出合计2小时补漏"
+          ]
+        },
+        "analysis": {
+          "raw": "分析混合限时45分钟；计算/谱图2；错题4",
+          "tasks": [
+            {
+              "id": "2026-12-09-analysis-1",
+              "text": "分析混合限时45分钟"
+            },
+            {
+              "id": "2026-12-09-analysis-2",
+              "text": "计算/谱图2"
+            },
+            {
+              "id": "2026-12-09-analysis-3",
+              "text": "错题4"
+            }
+          ],
+          "notes": []
+        },
+        "organic": {
+          "raw": "有机混合限时45分钟；反应10；机理/合成1",
+          "tasks": [
+            {
+              "id": "2026-12-09-organic-1",
+              "text": "有机混合限时45分钟"
+            },
+            {
+              "id": "2026-12-09-organic-2",
+              "text": "反应10"
+            },
+            {
+              "id": "2026-12-09-organic-3",
+              "text": "机理/合成1"
+            }
+          ],
+          "notes": []
+        },
+        "english": {
+          "raw": "词汇20分钟；旧题阅读2篇限时；逐项解释错因；小作文1篇",
+          "tasks": [
+            {
+              "id": "2026-12-09-english-1",
+              "text": "词汇20分钟"
+            },
+            {
+              "id": "2026-12-09-english-2",
+              "text": "旧题阅读2篇限时"
+            },
+            {
+              "id": "2026-12-09-english-3",
+              "text": "逐项解释错因"
+            },
+            {
+              "id": "2026-12-09-english-4",
+              "text": "小作文1篇"
+            }
+          ],
+          "notes": []
+        },
+        "politics": {
+          "raw": "客观旧错15道；主观闭卷复述2题、书写1题；肖四到手后替换背诵材料",
+          "tasks": [
+            {
+              "id": "2026-12-09-politics-1",
+              "text": "客观旧错15道"
+            },
+            {
+              "id": "2026-12-09-politics-2",
+              "text": "主观闭卷复述2题、书写1题"
+            }
+          ],
+          "notes": [
+            "肖四到手后替换背诵材料"
+          ]
+        }
+      },
+      "tracking": {
+        "subjectStatus": {
+          "pharm": null,
+          "analysis": null,
+          "organic": null,
+          "english": null,
+          "politics": null
+        },
+        "actualHours": null,
+        "note": null
+      },
+      "events": [
+        {
+          "type": "catchup",
+          "label": "本周补漏",
+          "durationMinutes": 120,
+          "replacesNormalTasks": true
+        }
+      ]
+    },
+    {
+      "date": "2026-12-10",
+      "day": 50,
+      "phaseId": "phase-4",
+      "phase": "整卷查漏",
+      "plannedHours": 10,
+      "subjects": {
+        "pharm": {
+          "raw": "政治整卷日：药理错题10；简答2；三科共5小时",
+          "tasks": [
+            {
+              "id": "2026-12-10-pharm-1",
+              "text": "政治整卷日：药理错题10"
+            },
+            {
+              "id": "2026-12-10-pharm-2",
+              "text": "简答2"
+            }
+          ],
+          "notes": [
+            "三科共5小时"
+          ]
+        },
+        "analysis": {
+          "raw": "分析短题6；计算/谱图1；三科共5小时",
+          "tasks": [
+            {
+              "id": "2026-12-10-analysis-1",
+              "text": "分析短题6"
+            },
+            {
+              "id": "2026-12-10-analysis-2",
+              "text": "计算/谱图1"
+            }
+          ],
+          "notes": [
+            "三科共5小时"
+          ]
+        },
+        "organic": {
+          "raw": "有机反应10；机理/合成1；三科共5小时",
+          "tasks": [
+            {
+              "id": "2026-12-10-organic-1",
+              "text": "有机反应10"
+            },
+            {
+              "id": "2026-12-10-organic-2",
+              "text": "机理/合成1"
+            }
+          ],
+          "notes": [
+            "三科共5小时"
+          ]
+        },
+        "english": {
+          "raw": "词汇20分钟；完形/新题型/翻译1组；订正；大作文1篇",
+          "tasks": [
+            {
+              "id": "2026-12-10-english-1",
+              "text": "词汇20分钟"
+            },
+            {
+              "id": "2026-12-10-english-2",
+              "text": "完形/新题型/翻译1组"
+            },
+            {
+              "id": "2026-12-10-english-3",
+              "text": "订正"
+            },
+            {
+              "id": "2026-12-10-english-4",
+              "text": "大作文1篇"
+            }
+          ],
+          "notes": []
+        },
+        "politics": {
+          "raw": "政治整卷180分钟：客观＋主观完整手写；专业5h、英语2h、政治3h",
+          "tasks": [
+            {
+              "id": "2026-12-10-politics-1",
+              "text": "政治整卷180分钟：客观＋主观完整手写"
+            }
+          ],
+          "notes": [
+            "专业5h、英语2h、政治3h"
+          ]
+        }
+      },
+      "tracking": {
+        "subjectStatus": {
+          "pharm": null,
+          "analysis": null,
+          "organic": null,
+          "english": null,
+          "politics": null
+        },
+        "actualHours": null,
+        "note": null
+      },
+      "events": [
+        {
+          "type": "politics_mock",
+          "label": "政治整卷模拟",
+          "durationMinutes": 180
+        }
+      ]
+    },
+    {
+      "date": "2026-12-11",
+      "day": 51,
+      "phaseId": "phase-4",
+      "phase": "整卷查漏",
+      "plannedHours": 10,
+      "subjects": {
+        "pharm": {
+          "raw": "药理混合限时40分钟；简答3；错题8",
+          "tasks": [
+            {
+              "id": "2026-12-11-pharm-1",
+              "text": "药理混合限时40分钟"
+            },
+            {
+              "id": "2026-12-11-pharm-2",
+              "text": "简答3"
+            },
+            {
+              "id": "2026-12-11-pharm-3",
+              "text": "错题8"
+            }
+          ],
+          "notes": []
+        },
+        "analysis": {
+          "raw": "分析混合限时45分钟；计算/谱图2；错题4",
+          "tasks": [
+            {
+              "id": "2026-12-11-analysis-1",
+              "text": "分析混合限时45分钟"
+            },
+            {
+              "id": "2026-12-11-analysis-2",
+              "text": "计算/谱图2"
+            },
+            {
+              "id": "2026-12-11-analysis-3",
+              "text": "错题4"
+            }
+          ],
+          "notes": []
+        },
+        "organic": {
+          "raw": "有机混合限时45分钟；反应10；机理/合成1",
+          "tasks": [
+            {
+              "id": "2026-12-11-organic-1",
+              "text": "有机混合限时45分钟"
+            },
+            {
+              "id": "2026-12-11-organic-2",
+              "text": "反应10"
+            },
+            {
+              "id": "2026-12-11-organic-3",
+              "text": "机理/合成1"
+            }
+          ],
+          "notes": []
+        },
+        "english": {
+          "raw": "词汇20分钟；最弱题型1组；旧错回测；作文修改1篇",
+          "tasks": [
+            {
+              "id": "2026-12-11-english-1",
+              "text": "词汇20分钟"
+            },
+            {
+              "id": "2026-12-11-english-2",
+              "text": "最弱题型1组"
+            },
+            {
+              "id": "2026-12-11-english-3",
+              "text": "旧错回测"
+            },
+            {
+              "id": "2026-12-11-english-4",
+              "text": "作文修改1篇"
+            }
+          ],
+          "notes": []
+        },
+        "politics": {
+          "raw": "政治整卷订正；客观错因回查；主观答案补点与重写1题",
+          "tasks": [
+            {
+              "id": "2026-12-11-politics-1",
+              "text": "政治整卷订正"
+            },
+            {
+              "id": "2026-12-11-politics-2",
+              "text": "客观错因回查"
+            },
+            {
+              "id": "2026-12-11-politics-3",
+              "text": "主观答案补点与重写1题"
+            }
+          ],
+          "notes": []
+        }
+      },
+      "tracking": {
+        "subjectStatus": {
+          "pharm": null,
+          "analysis": null,
+          "organic": null,
+          "english": null,
+          "politics": null
+        },
+        "actualHours": null,
+        "note": null
+      },
+      "events": []
+    },
+    {
+      "date": "2026-12-12",
+      "day": 52,
+      "phaseId": "phase-4",
+      "phase": "整卷查漏",
+      "plannedHours": 10,
+      "subjects": {
+        "pharm": {
+          "raw": "英语整卷日：药理错题10；简答2；三科共4.5小时",
+          "tasks": [
+            {
+              "id": "2026-12-12-pharm-1",
+              "text": "英语整卷日：药理错题10"
+            },
+            {
+              "id": "2026-12-12-pharm-2",
+              "text": "简答2"
+            }
+          ],
+          "notes": [
+            "三科共4.5小时"
+          ]
+        },
+        "analysis": {
+          "raw": "英语整卷日：分析短题4；计算/谱图1；三科共4.5小时",
+          "tasks": [
+            {
+              "id": "2026-12-12-analysis-1",
+              "text": "英语整卷日：分析短题4"
+            },
+            {
+              "id": "2026-12-12-analysis-2",
+              "text": "计算/谱图1"
+            }
+          ],
+          "notes": [
+            "三科共4.5小时"
+          ]
+        },
+        "organic": {
+          "raw": "英语整卷日：反应8；机理/合成1；三科共4.5小时",
+          "tasks": [
+            {
+              "id": "2026-12-12-organic-1",
+              "text": "英语整卷日：反应8"
+            },
+            {
+              "id": "2026-12-12-organic-2",
+              "text": "机理/合成1"
+            }
+          ],
+          "notes": [
+            "三科共4.5小时"
+          ]
+        },
+        "english": {
+          "raw": "2026年整卷180分钟（含写作）；当日英语3小时，专业课调减1小时",
+          "tasks": [
+            {
+              "id": "2026-12-12-english-1",
+              "text": "2026年整卷180分钟（含写作）"
+            }
+          ],
+          "notes": [
+            "当日英语3小时，专业课调减1小时"
+          ]
+        },
+        "politics": {
+          "raw": "客观旧错15道；主观闭卷复述2题、书写1题；肖四到手后替换背诵材料",
+          "tasks": [
+            {
+              "id": "2026-12-12-politics-1",
+              "text": "客观旧错15道"
+            },
+            {
+              "id": "2026-12-12-politics-2",
+              "text": "主观闭卷复述2题、书写1题"
+            }
+          ],
+          "notes": [
+            "肖四到手后替换背诵材料"
+          ]
+        }
+      },
+      "tracking": {
+        "subjectStatus": {
+          "pharm": null,
+          "analysis": null,
+          "organic": null,
+          "english": null,
+          "politics": null
+        },
+        "actualHours": null,
+        "note": null
+      },
+      "events": [
+        {
+          "type": "english_mock",
+          "label": "2026年英语模拟",
+          "paperYear": 2026,
+          "durationMinutes": 180,
+          "time": "14:00–17:00"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-13",
+      "day": 53,
+      "phaseId": "phase-4",
+      "phase": "整卷查漏",
+      "plannedHours": 10,
+      "subjects": {
+        "pharm": {
+          "raw": "三科合卷连续180分钟；当天常规题量取消",
+          "tasks": [
+            {
+              "id": "2026-12-13-pharm-1",
+              "text": "三科合卷连续180分钟"
+            }
+          ],
+          "notes": [
+            "当天常规题量取消"
+          ]
+        },
+        "analysis": {
+          "raw": "合卷后总计150分钟订正；定位分析失分",
+          "tasks": [
+            {
+              "id": "2026-12-13-analysis-1",
+              "text": "合卷后总计150分钟订正"
+            },
+            {
+              "id": "2026-12-13-analysis-2",
+              "text": "定位分析失分"
+            }
+          ],
+          "notes": []
+        },
+        "organic": {
+          "raw": "共用专业课5.5小时；逐题记错因与补漏",
+          "tasks": [
+            {
+              "id": "2026-12-13-organic-1",
+              "text": "逐题记错因与补漏"
+            }
+          ],
+          "notes": [
+            "共用专业课5.5小时"
+          ]
+        },
+        "english": {
+          "raw": "词汇20分钟；2026年整卷订正；分析错因；修改大小作文",
+          "tasks": [
+            {
+              "id": "2026-12-13-english-1",
+              "text": "词汇20分钟"
+            },
+            {
+              "id": "2026-12-13-english-2",
+              "text": "2026年整卷订正"
+            },
+            {
+              "id": "2026-12-13-english-3",
+              "text": "分析错因"
+            },
+            {
+              "id": "2026-12-13-english-4",
+              "text": "修改大小作文"
+            }
+          ],
+          "notes": []
+        },
+        "politics": {
+          "raw": "客观旧错15道；主观闭卷复述2题、书写1题；肖四到手后替换背诵材料",
+          "tasks": [
+            {
+              "id": "2026-12-13-politics-1",
+              "text": "客观旧错15道"
+            },
+            {
+              "id": "2026-12-13-politics-2",
+              "text": "主观闭卷复述2题、书写1题"
+            }
+          ],
+          "notes": [
+            "肖四到手后替换背诵材料"
+          ]
+        }
+      },
+      "tracking": {
+        "subjectStatus": {
+          "pharm": null,
+          "analysis": null,
+          "organic": null,
+          "english": null,
+          "politics": null
+        },
+        "actualHours": null,
+        "note": null
+      },
+      "events": [
+        {
+          "type": "professional_mock",
+          "label": "专业综合模拟",
+          "durationMinutes": 180,
+          "reviewMinutes": 150,
+          "sharedSubjects": [
+            "pharm",
+            "analysis",
+            "organic"
+          ],
+          "time": "08:30–11:30"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-14",
+      "day": 54,
+      "phaseId": "phase-4",
+      "phase": "整卷查漏",
+      "plannedHours": 10,
+      "subjects": {
+        "pharm": {
+          "raw": "药理混合限时40分钟；简答3；错题8",
+          "tasks": [
+            {
+              "id": "2026-12-14-pharm-1",
+              "text": "药理混合限时40分钟"
+            },
+            {
+              "id": "2026-12-14-pharm-2",
+              "text": "简答3"
+            },
+            {
+              "id": "2026-12-14-pharm-3",
+              "text": "错题8"
+            }
+          ],
+          "notes": []
+        },
+        "analysis": {
+          "raw": "分析混合限时45分钟；计算/谱图2；错题4",
+          "tasks": [
+            {
+              "id": "2026-12-14-analysis-1",
+              "text": "分析混合限时45分钟"
+            },
+            {
+              "id": "2026-12-14-analysis-2",
+              "text": "计算/谱图2"
+            },
+            {
+              "id": "2026-12-14-analysis-3",
+              "text": "错题4"
+            }
+          ],
+          "notes": []
+        },
+        "organic": {
+          "raw": "有机混合限时45分钟；反应10；机理/合成1",
+          "tasks": [
+            {
+              "id": "2026-12-14-organic-1",
+              "text": "有机混合限时45分钟"
+            },
+            {
+              "id": "2026-12-14-organic-2",
+              "text": "反应10"
+            },
+            {
+              "id": "2026-12-14-organic-3",
+              "text": "机理/合成1"
+            }
+          ],
+          "notes": []
+        },
+        "english": {
+          "raw": "词汇20分钟；最弱题型1组；旧错回测；作文修改1篇",
+          "tasks": [
+            {
+              "id": "2026-12-14-english-1",
+              "text": "词汇20分钟"
+            },
+            {
+              "id": "2026-12-14-english-2",
+              "text": "最弱题型1组"
+            },
+            {
+              "id": "2026-12-14-english-3",
+              "text": "旧错回测"
+            },
+            {
+              "id": "2026-12-14-english-4",
+              "text": "作文修改1篇"
+            }
+          ],
+          "notes": []
+        },
+        "politics": {
+          "raw": "客观旧错15道；主观闭卷复述2题、书写1题；肖四到手后替换背诵材料",
+          "tasks": [
+            {
+              "id": "2026-12-14-politics-1",
+              "text": "客观旧错15道"
+            },
+            {
+              "id": "2026-12-14-politics-2",
+              "text": "主观闭卷复述2题、书写1题"
+            }
+          ],
+          "notes": [
+            "肖四到手后替换背诵材料"
+          ]
+        }
+      },
+      "tracking": {
+        "subjectStatus": {
+          "pharm": null,
+          "analysis": null,
+          "organic": null,
+          "english": null,
+          "politics": null
+        },
+        "actualHours": null,
+        "note": null
+      },
+      "events": []
+    },
+    {
+      "date": "2026-12-15",
+      "day": 55,
+      "phaseId": "phase-5",
+      "phase": "考前回收",
+      "plannedHours": 10,
+      "subjects": {
+        "pharm": {
+          "raw": "药理高频错题10；闭卷简答5；易混药比较",
+          "tasks": [
+            {
+              "id": "2026-12-15-pharm-1",
+              "text": "药理高频错题10"
+            },
+            {
+              "id": "2026-12-15-pharm-2",
+              "text": "闭卷简答5"
+            },
+            {
+              "id": "2026-12-15-pharm-3",
+              "text": "易混药比较"
+            }
+          ],
+          "notes": []
+        },
+        "analysis": {
+          "raw": "分析高频错题6；公式条件默写；计算/谱图2",
+          "tasks": [
+            {
+              "id": "2026-12-15-analysis-1",
+              "text": "分析高频错题6"
+            },
+            {
+              "id": "2026-12-15-analysis-2",
+              "text": "公式条件默写"
+            },
+            {
+              "id": "2026-12-15-analysis-3",
+              "text": "计算/谱图2"
+            }
+          ],
+          "notes": []
+        },
+        "organic": {
+          "raw": "有机错反应12；试剂条件默写；合成1",
+          "tasks": [
+            {
+              "id": "2026-12-15-organic-1",
+              "text": "有机错反应12"
+            },
+            {
+              "id": "2026-12-15-organic-2",
+              "text": "试剂条件默写"
+            },
+            {
+              "id": "2026-12-15-organic-3",
+              "text": "合成1"
+            }
+          ],
+          "notes": []
+        },
+        "english": {
+          "raw": "词汇20分钟；旧错阅读1篇；大小作文框架；修改易错表达",
+          "tasks": [
+            {
+              "id": "2026-12-15-english-1",
+              "text": "词汇20分钟"
+            },
+            {
+              "id": "2026-12-15-english-2",
+              "text": "旧错阅读1篇"
+            },
+            {
+              "id": "2026-12-15-english-3",
+              "text": "大小作文框架"
+            },
+            {
+              "id": "2026-12-15-english-4",
+              "text": "修改易错表达"
+            }
+          ],
+          "notes": []
+        },
+        "politics": {
+          "raw": "客观旧错15道；主观闭卷复述2题、书写1题；肖四到手后替换背诵材料",
+          "tasks": [
+            {
+              "id": "2026-12-15-politics-1",
+              "text": "客观旧错15道"
+            },
+            {
+              "id": "2026-12-15-politics-2",
+              "text": "主观闭卷复述2题、书写1题"
+            }
+          ],
+          "notes": [
+            "肖四到手后替换背诵材料"
+          ]
+        }
+      },
+      "tracking": {
+        "subjectStatus": {
+          "pharm": null,
+          "analysis": null,
+          "organic": null,
+          "english": null,
+          "politics": null
+        },
+        "actualHours": null,
+        "note": null
+      },
+      "events": []
+    },
+    {
+      "date": "2026-12-16",
+      "day": 56,
+      "phaseId": "phase-5",
+      "phase": "考前回收",
+      "plannedHours": 10,
+      "subjects": {
+        "pharm": {
+          "raw": "药理漏项回收；简答4；不新增偏题；本日从现有任务中替换出合计2小时补漏",
+          "tasks": [
+            {
+              "id": "2026-12-16-pharm-1",
+              "text": "药理漏项回收"
+            },
+            {
+              "id": "2026-12-16-pharm-2",
+              "text": "简答4"
+            }
+          ],
+          "notes": [
+            "不新增偏题",
+            "本日从现有任务中替换出合计2小时补漏"
+          ]
+        },
+        "analysis": {
+          "raw": "分析漏项回收；错题4；公式条件检查",
+          "tasks": [
+            {
+              "id": "2026-12-16-analysis-1",
+              "text": "分析漏项回收"
+            },
+            {
+              "id": "2026-12-16-analysis-2",
+              "text": "错题4"
+            },
+            {
+              "id": "2026-12-16-analysis-3",
+              "text": "公式条件检查"
+            }
+          ],
+          "notes": []
+        },
+        "organic": {
+          "raw": "有机漏项回收；错反应10；机理1",
+          "tasks": [
+            {
+              "id": "2026-12-16-organic-1",
+              "text": "有机漏项回收"
+            },
+            {
+              "id": "2026-12-16-organic-2",
+              "text": "错反应10"
+            },
+            {
+              "id": "2026-12-16-organic-3",
+              "text": "机理1"
+            }
+          ],
+          "notes": []
+        },
+        "english": {
+          "raw": "词汇20分钟；旧错阅读1篇；大小作文框架；修改易错表达",
+          "tasks": [
+            {
+              "id": "2026-12-16-english-1",
+              "text": "词汇20分钟"
+            },
+            {
+              "id": "2026-12-16-english-2",
+              "text": "旧错阅读1篇"
+            },
+            {
+              "id": "2026-12-16-english-3",
+              "text": "大小作文框架"
+            },
+            {
+              "id": "2026-12-16-english-4",
+              "text": "修改易错表达"
+            }
+          ],
+          "notes": []
+        },
+        "politics": {
+          "raw": "客观旧错15道；主观闭卷复述2题、书写1题；肖四到手后替换背诵材料",
+          "tasks": [
+            {
+              "id": "2026-12-16-politics-1",
+              "text": "客观旧错15道"
+            },
+            {
+              "id": "2026-12-16-politics-2",
+              "text": "主观闭卷复述2题、书写1题"
+            }
+          ],
+          "notes": [
+            "肖四到手后替换背诵材料"
+          ]
+        }
+      },
+      "tracking": {
+        "subjectStatus": {
+          "pharm": null,
+          "analysis": null,
+          "organic": null,
+          "english": null,
+          "politics": null
+        },
+        "actualHours": null,
+        "note": null
+      },
+      "events": [
+        {
+          "type": "catchup",
+          "label": "本周补漏",
+          "durationMinutes": 120,
+          "replacesNormalTasks": true
+        }
+      ]
+    },
+    {
+      "date": "2026-12-17",
+      "day": 57,
+      "phaseId": "phase-5",
+      "phase": "考前回收",
+      "plannedHours": 8,
+      "subjects": {
+        "pharm": {
+          "raw": "药理高频提纲4；错题6；三科共4小时",
+          "tasks": [
+            {
+              "id": "2026-12-17-pharm-1",
+              "text": "药理高频提纲4"
+            },
+            {
+              "id": "2026-12-17-pharm-2",
+              "text": "错题6"
+            }
+          ],
+          "notes": [
+            "三科共4小时"
+          ]
+        },
+        "analysis": {
+          "raw": "分析公式条件回忆；典型计算/谱图1",
+          "tasks": [
+            {
+              "id": "2026-12-17-analysis-1",
+              "text": "分析公式条件回忆"
+            },
+            {
+              "id": "2026-12-17-analysis-2",
+              "text": "典型计算/谱图1"
+            }
+          ],
+          "notes": []
+        },
+        "organic": {
+          "raw": "有机反应条件回忆10；旧错合成1",
+          "tasks": [
+            {
+              "id": "2026-12-17-organic-1",
+              "text": "有机反应条件回忆10"
+            },
+            {
+              "id": "2026-12-17-organic-2",
+              "text": "旧错合成1"
+            }
+          ],
+          "notes": []
+        },
+        "english": {
+          "raw": "词汇20分钟；易错词句；作文框架闭卷；旧错1组（1.5小时）",
+          "tasks": [
+            {
+              "id": "2026-12-17-english-1",
+              "text": "词汇20分钟"
+            },
+            {
+              "id": "2026-12-17-english-2",
+              "text": "易错词句"
+            },
+            {
+              "id": "2026-12-17-english-3",
+              "text": "作文框架闭卷"
+            },
+            {
+              "id": "2026-12-17-english-4",
+              "text": "旧错1组（1.5小时）"
+            }
+          ],
+          "notes": []
+        },
+        "politics": {
+          "raw": "客观旧错15道；主观闭卷复述2题、书写1题；肖四到手后替换背诵材料",
+          "tasks": [
+            {
+              "id": "2026-12-17-politics-1",
+              "text": "客观旧错15道"
+            },
+            {
+              "id": "2026-12-17-politics-2",
+              "text": "主观闭卷复述2题、书写1题"
+            }
+          ],
+          "notes": [
+            "肖四到手后替换背诵材料"
+          ]
+        }
+      },
+      "tracking": {
+        "subjectStatus": {
+          "pharm": null,
+          "analysis": null,
+          "organic": null,
+          "english": null,
+          "politics": null
+        },
+        "actualHours": null,
+        "note": null
+      },
+      "events": []
+    },
+    {
+      "date": "2026-12-18",
+      "day": 58,
+      "phaseId": "phase-5",
+      "phase": "考前回收",
+      "plannedHours": 6,
+      "subjects": {
+        "pharm": {
+          "raw": "药理代表药与易混点回忆；三科共3小时",
+          "tasks": [
+            {
+              "id": "2026-12-18-pharm-1",
+              "text": "药理代表药与易混点回忆"
+            }
+          ],
+          "notes": [
+            "三科共3小时"
+          ]
+        },
+        "analysis": {
+          "raw": "分析公式、步骤和高频错因清单",
+          "tasks": [
+            {
+              "id": "2026-12-18-analysis-1",
+              "text": "分析公式、步骤和高频错因清单"
+            }
+          ],
+          "notes": []
+        },
+        "organic": {
+          "raw": "有机试剂、条件与易错产物清单",
+          "tasks": [
+            {
+              "id": "2026-12-18-organic-1",
+              "text": "有机试剂、条件与易错产物清单"
+            }
+          ],
+          "notes": []
+        },
+        "english": {
+          "raw": "词汇错词20分钟；大小作文框架各1；答题顺序回顾（1小时）",
+          "tasks": [
+            {
+              "id": "2026-12-18-english-1",
+              "text": "词汇错词20分钟"
+            },
+            {
+              "id": "2026-12-18-english-2",
+              "text": "大小作文框架各1"
+            },
+            {
+              "id": "2026-12-18-english-3",
+              "text": "答题顺序回顾（1小时）"
+            }
+          ],
+          "notes": []
+        },
+        "politics": {
+          "raw": "主观高频框架闭卷；客观旧错10道；不新增整卷（2小时）",
+          "tasks": [
+            {
+              "id": "2026-12-18-politics-1",
+              "text": "主观高频框架闭卷"
+            },
+            {
+              "id": "2026-12-18-politics-2",
+              "text": "客观旧错10道"
+            }
+          ],
+          "notes": [
+            "不新增整卷（2小时）"
+          ]
+        }
+      },
+      "tracking": {
+        "subjectStatus": {
+          "pharm": null,
+          "analysis": null,
+          "organic": null,
+          "english": null,
+          "politics": null
+        },
+        "actualHours": null,
+        "note": null
+      },
+      "events": []
+    }
+  ],
+  "allocations": [
+    {
+      "label": "10/22—11/8",
+      "professionalHours": 6,
+      "englishHours": 2.5,
+      "politicsHours": 1.5,
+      "notes": "三门专业课各2小时。每科包括15—20分钟旧内容回忆；每日复盘计入原时段。"
+    },
+    {
+      "label": "11/9—11/22",
+      "professionalHours": 6,
+      "englishHours": 2.25,
+      "politicsHours": 1.75,
+      "notes": "三门专业课各2小时。提高闭卷、错题和跨章节比较的比例。"
+    },
+    {
+      "label": "11/23—12/16",
+      "professionalHours": 5.5,
+      "englishHours": 2,
+      "politicsHours": 2.5,
+      "notes": "专业三科各1.5小时，另1小时给本周薄弱科。专业模拟日3小时合卷＋2.5小时订正。"
+    },
+    {
+      "label": "英语整卷日",
+      "professionalHours": 4.5,
+      "englishHours": 3,
+      "politicsHours": 2.5,
+      "notes": "12/1、12/7、12/12：英语连续3小时；从专业课调1小时。英语次日订正替换常规任务。"
+    },
+    {
+      "label": "12/17",
+      "professionalHours": 4,
+      "englishHours": 1.5,
+      "politicsHours": 2.5,
+      "notes": "总计8小时。只回收高价值错题与框架，减少新题。"
+    },
+    {
+      "label": "12/18",
+      "professionalHours": 3,
+      "englishHours": 1,
+      "politicsHours": 2,
+      "notes": "总计6小时。复习清单与考试用品、路线确认，按正常时间休息。"
+    },
+    {
+      "label": "12/10政治整卷",
+      "professionalHours": 5,
+      "englishHours": 2,
+      "politicsHours": 3,
+      "notes": "客观＋主观完整手写180分钟；12/11政治时段订正。总计10小时。"
+    }
+  ],
+  "subjectMethods": [
+    {
+      "subjectId": "pharm",
+      "label": "药理学",
+      "practice": "基础15题",
+      "output": "简答提纲2",
+      "materials": "教材＋学习指导",
+      "notes": "从当前抗心律失常收口，按大纲未完成清单推进。每个主题写机制、作用、用途、主要不良反应/禁忌，并做同类药物比较。"
+    },
+    {
+      "subjectId": "analysis",
+      "label": "分析化学",
+      "practice": "短题6；计算/谱图1—2",
+      "output": "公式与依据",
+      "materials": "教材＋学习指导",
+      "notes": "红外及剩余仪器分析模块逐项核对。公式写适用条件，计算写步骤和单位，谱图写证据；同时复测先前的化学分析内容。"
+    },
+    {
+      "subjectId": "organic",
+      "label": "有机化学",
+      "practice": "反应/产物10；综合1",
+      "output": "反应条件/关键机理",
+      "materials": "教材＋学习指导",
+      "notes": "核对命名、构型构象、酸碱性/电子效应与反应是否覆盖。反应写底物、试剂、条件、产物和选择性；机理/合成至少1题。"
+    },
+    {
+      "subjectId": "english",
+      "label": "英语",
+      "practice": "每日词汇20分钟",
+      "output": "完整作文/错因",
+      "materials": "报考对应真题",
+      "notes": "前三天2018剩余内容可按已完成量提前。三天一年覆盖阅读、完形、新题型、翻译和写作；分日完成不叫整卷模拟。"
+    },
+    {
+      "subjectId": "politics",
+      "label": "政治",
+      "practice": "两天一套客观卷",
+      "output": "闭卷辨析/主观框架",
+      "materials": "腿姐手册＋现有卷",
+      "notes": "10/25加入十套卷；肖八到手后替换未完成的新卷任务。11月中旬练主观框架；肖四到手后替换背诵材料，不预设到书日期。"
+    }
+  ],
+  "methods": [
+    {
+      "title": "填写方法",
+      "text": "每日计划可改专题名与题量；每日打卡填写五科状态和实际有效小时。每周补漏替换原有任务。当天已完成任务直接记入，不要求重做。"
+    },
+    {
+      "title": "首轮验收",
+      "text": "11月8日是计划目标。前3天用真实用时校准；明显赶不上时先停整本箭头书与两本题集重复题，必要时收口延至11月12日，保留后续闭卷与订正。"
+    },
+    {
+      "title": "2小时补漏日",
+      "text": "10/28、11/4、11/11、11/18、11/25、12/2、12/9、12/16。按最影响得分的漏项分配，从当天常规任务中替换；当天总时长保持原预算。"
+    },
+    {
+      "title": "题量用法",
+      "text": "题量是初始预算，可随题目长度和速度下调。先保证大纲覆盖、订正和闭卷输出，再增加数量；每题都算进原学科时间。"
+    },
+    {
+      "title": "12个剩余专题",
+      "text": "专题1—12是排期单元，不等于12个教材章节。前3天按各科剩余大纲、难度与所需时长划分，可合并、拆分并直接修改每日任务文字。"
+    },
+    {
+      "title": "材料优先级",
+      "text": "现行大纲与教材优先；《学习指导》作主线，《1000题》按同主题补练。重复做对的同类题可减量。箭头书只处理大纲内明确弱项。"
+    },
+    {
+      "title": "难题止损",
+      "text": "基础题约3—5分钟、综合题约10分钟仍无有效思路时先标记。订正写清卡点，隔1—3天闭卷重做；不为整本难题挤压首轮。"
+    },
+    {
+      "title": "二轮轮转",
+      "text": "轮转编号只是当天练习组。按大纲全范围安排已学主题，避免只复习近期章节；每周检查更早内容，按错因调整先后。"
+    },
+    {
+      "title": "专业整卷",
+      "text": "11/28、12/5、12/13：按本人现行大纲题型组合180分钟训练，有真题用真题，无则用现有材料组卷；其后150分钟订正，替代日常题量。12/12英语14—17时，12/13专业8:30—11:30。"
+    },
+    {
+      "title": "考前日历",
+      "text": "12/19政治8:30—11:30、外语14:00—17:00；12/20专业综合8:30—11:30。具体以本人准考证为准。"
+    },
+    {
+      "title": "判断边界",
+      "text": "目前按专业课仍在首轮系统梳理安排。已完成首轮的科目，将新专题时段改为闭卷与错题，不重读。暂缺报考代码、现行大纲版本、目录和真实得分，不推断完成率或三科各100分。"
+    },
+    {
+      "title": "每周诊断",
+      "text": "正确率可选填：例如输入70%。专业课用已学基础题；英语/政治记录同口径测验。不要用熟题分数预测考试成绩。"
+    },
+    {
+      "title": "每周诊断",
+      "text": "同科已学基础题连续两次低于约70%：下一周从较强科调30分钟，减少新任务。阈值仅用于时间调整。"
+    },
+    {
+      "title": "回顾顺序",
+      "text": "先看反复错误与大纲漏项，再调整题量和时间。"
+    },
+    {
+      "title": "未达计划",
+      "text": "连续两天完成不足七成，优先保留订正与闭卷，减少新任务约15%。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "官方考试日期",
+      "text": "研招网转发教育部2027招生通知：2026年12月19—20日初试。\nhttps://yz.chsi.com.cn/kyzx/jybzc/202609/20260924/2293971512.html",
+      "urls": [
+        "https://yz.chsi.com.cn/kyzx/jybzc/202609/20260924/2293971512.html"
+      ]
+    },
+    {
+      "title": "官方考试时段",
+      "text": "2027年全国硕士研究生招生工作管理规定。\nhttps://yz.chsi.com.cn/kyzx/jybzc/202609/20260924/2293971511.html",
+      "urls": [
+        "https://yz.chsi.com.cn/kyzx/jybzc/202609/20260924/2293971511.html"
+      ]
+    },
+    {
+      "title": "华科招生简章",
+      "text": "华中科技大学2027年硕士研究生招生简章。具体专业代码、外语科目和现行大纲需对照本人报考信息。\nhttps://gszs.hust.edu.cn/info/1106/4160.htm",
+      "urls": [
+        "https://gszs.hust.edu.cn/info/1106/4160.htm"
+      ]
+    },
+    {
+      "title": "当前进度来源",
+      "text": "用户2026年10月22日提供：英语到2018；政治腿姐手册、三天后十套卷；分析到红外，药理到抗心律失常，有机过反应；每日10小时。",
+      "urls": []
+    }
+  ],
+  "weeks": [
+    {
+      "id": "week-1",
+      "start": "2026-10-22",
+      "end": "2026-10-28",
+      "plannedHours": 70,
+      "actualHours": null,
+      "accuracy": {
+        "pharm": null,
+        "analysis": null,
+        "organic": null,
+        "english": null,
+        "politics": null
+      },
+      "adjustment": null
+    },
+    {
+      "id": "week-2",
+      "start": "2026-10-29",
+      "end": "2026-11-04",
+      "plannedHours": 70,
+      "actualHours": null,
+      "accuracy": {
+        "pharm": null,
+        "analysis": null,
+        "organic": null,
+        "english": null,
+        "politics": null
+      },
+      "adjustment": null
+    },
+    {
+      "id": "week-3",
+      "start": "2026-11-05",
+      "end": "2026-11-11",
+      "plannedHours": 70,
+      "actualHours": null,
+      "accuracy": {
+        "pharm": null,
+        "analysis": null,
+        "organic": null,
+        "english": null,
+        "politics": null
+      },
+      "adjustment": null
+    },
+    {
+      "id": "week-4",
+      "start": "2026-11-12",
+      "end": "2026-11-18",
+      "plannedHours": 70,
+      "actualHours": null,
+      "accuracy": {
+        "pharm": null,
+        "analysis": null,
+        "organic": null,
+        "english": null,
+        "politics": null
+      },
+      "adjustment": null
+    },
+    {
+      "id": "week-5",
+      "start": "2026-11-19",
+      "end": "2026-11-25",
+      "plannedHours": 70,
+      "actualHours": null,
+      "accuracy": {
+        "pharm": null,
+        "analysis": null,
+        "organic": null,
+        "english": null,
+        "politics": null
+      },
+      "adjustment": null
+    },
+    {
+      "id": "week-6",
+      "start": "2026-11-26",
+      "end": "2026-12-02",
+      "plannedHours": 70,
+      "actualHours": null,
+      "accuracy": {
+        "pharm": null,
+        "analysis": null,
+        "organic": null,
+        "english": null,
+        "politics": null
+      },
+      "adjustment": null
+    },
+    {
+      "id": "week-7",
+      "start": "2026-12-03",
+      "end": "2026-12-09",
+      "plannedHours": 70,
+      "actualHours": null,
+      "accuracy": {
+        "pharm": null,
+        "analysis": null,
+        "organic": null,
+        "english": null,
+        "politics": null
+      },
+      "adjustment": null
+    },
+    {
+      "id": "week-8",
+      "start": "2026-12-10",
+      "end": "2026-12-16",
+      "plannedHours": 70,
+      "actualHours": null,
+      "accuracy": {
+        "pharm": null,
+        "analysis": null,
+        "organic": null,
+        "english": null,
+        "politics": null
+      },
+      "adjustment": null
+    },
+    {
+      "id": "week-9",
+      "start": "2026-12-17",
+      "end": "2026-12-18",
+      "plannedHours": 14,
+      "actualHours": null,
+      "accuracy": {
+        "pharm": null,
+        "analysis": null,
+        "organic": null,
+        "english": null,
+        "politics": null
+      },
+      "adjustment": null
+    }
+  ]
+}
